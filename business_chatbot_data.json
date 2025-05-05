@@ -1,0 +1,5404 @@
+{
+    "intents": [
+        {
+            "tag": "business_0_0",
+            "patterns": [
+                "Who is the owner of M/S Kisan Agro Industries?"
+            ],
+            "responses": [
+                "M/S Kisan Agro Industries"
+            ]
+        },
+        {
+            "tag": "business_0_1",
+            "patterns": [
+                "What is the designation of the owner of M/S Kisan Agro Industries?"
+            ],
+            "responses": [
+                "Proprietor"
+            ]
+        },
+        {
+            "tag": "business_0_2",
+            "patterns": [
+                "What is the gender of the owner of M/S Kisan Agro Industries?"
+            ],
+            "responses": [
+                "Male"
+            ]
+        },
+        {
+            "tag": "business_0_3",
+            "patterns": [
+                "What is the category of the owner of M/S Kisan Agro Industries?"
+            ],
+            "responses": [
+                "OBC"
+            ]
+        },
+        {
+            "tag": "business_0_4",
+            "patterns": [
+                "What is the contact of M/S Kisan Agro Industries?"
+            ],
+            "responses": [
+                "8382867684"
+            ]
+        },
+        {
+            "tag": "business_0_5",
+            "patterns": [
+                "What is the email of M/S Kisan Agro Industries?"
+            ],
+            "responses": [
+                "akashpatel3009@gmail.com"
+            ]
+        },
+        {
+            "tag": "business_0_6",
+            "patterns": [
+                "What is the business industry of M/S Kisan Agro Industries?"
+            ],
+            "responses": [
+                "Micro"
+            ]
+        },
+        {
+            "tag": "business_0_7",
+            "patterns": [
+                "What is the business activity of M/S Kisan Agro Industries?"
+            ],
+            "responses": [
+                "Manufacturing"
+            ]
+        },
+        {
+            "tag": "business_0_8",
+            "patterns": [
+                "What is the address of M/S Kisan Agro Industries?"
+            ],
+            "responses": [
+                "nan"
+            ]
+        },
+        {
+            "tag": "business_0_9",
+            "patterns": [
+                "What is the district of M/S Kisan Agro Industries?"
+            ],
+            "responses": [
+                "Maharajganj "
+            ]
+        },
+        {
+            "tag": "business_0_10",
+            "patterns": [
+                "What is the state of M/S Kisan Agro Industries?"
+            ],
+            "responses": [
+                "Uttar Pradesh"
+            ]
+        },
+        {
+            "tag": "business_0_11",
+            "patterns": [
+                "What is the pincode of M/S Kisan Agro Industries?"
+            ],
+            "responses": [
+                "0"
+            ]
+        },
+        {
+            "tag": "business_1_0",
+            "patterns": [
+                "Who is the owner of M/S Parvati Modern Rice Mill?"
+            ],
+            "responses": [
+                "Smt Parvati"
+            ]
+        },
+        {
+            "tag": "business_1_1",
+            "patterns": [
+                "What is the designation of the owner of M/S Parvati Modern Rice Mill?"
+            ],
+            "responses": [
+                "Proprietor"
+            ]
+        },
+        {
+            "tag": "business_1_2",
+            "patterns": [
+                "What is the gender of the owner of M/S Parvati Modern Rice Mill?"
+            ],
+            "responses": [
+                "Male"
+            ]
+        },
+        {
+            "tag": "business_1_3",
+            "patterns": [
+                "What is the category of the owner of M/S Parvati Modern Rice Mill?"
+            ],
+            "responses": [
+                "OBC"
+            ]
+        },
+        {
+            "tag": "business_1_4",
+            "patterns": [
+                "What is the contact of M/S Parvati Modern Rice Mill?"
+            ],
+            "responses": [
+                "7905097244"
+            ]
+        },
+        {
+            "tag": "business_1_5",
+            "patterns": [
+                "What is the email of M/S Parvati Modern Rice Mill?"
+            ],
+            "responses": [
+                "laljangi15@gmail.com"
+            ]
+        },
+        {
+            "tag": "business_1_6",
+            "patterns": [
+                "What is the business industry of M/S Parvati Modern Rice Mill?"
+            ],
+            "responses": [
+                "Micro"
+            ]
+        },
+        {
+            "tag": "business_1_7",
+            "patterns": [
+                "What is the business activity of M/S Parvati Modern Rice Mill?"
+            ],
+            "responses": [
+                "Manufacturing"
+            ]
+        },
+        {
+            "tag": "business_1_8",
+            "patterns": [
+                "What is the address of M/S Parvati Modern Rice Mill?"
+            ],
+            "responses": [
+                "nan"
+            ]
+        },
+        {
+            "tag": "business_1_9",
+            "patterns": [
+                "What is the district of M/S Parvati Modern Rice Mill?"
+            ],
+            "responses": [
+                "Maharajganj "
+            ]
+        },
+        {
+            "tag": "business_1_10",
+            "patterns": [
+                "What is the state of M/S Parvati Modern Rice Mill?"
+            ],
+            "responses": [
+                "Uttar Pradesh"
+            ]
+        },
+        {
+            "tag": "business_1_11",
+            "patterns": [
+                "What is the pincode of M/S Parvati Modern Rice Mill?"
+            ],
+            "responses": [
+                "0"
+            ]
+        },
+        {
+            "tag": "business_2_0",
+            "patterns": [
+                "Who is the owner of Gupta Rice Meel?"
+            ],
+            "responses": [
+                "Anuj Gupta"
+            ]
+        },
+        {
+            "tag": "business_2_1",
+            "patterns": [
+                "What is the designation of the owner of Gupta Rice Meel?"
+            ],
+            "responses": [
+                "Proprietor"
+            ]
+        },
+        {
+            "tag": "business_2_2",
+            "patterns": [
+                "What is the gender of the owner of Gupta Rice Meel?"
+            ],
+            "responses": [
+                "Male"
+            ]
+        },
+        {
+            "tag": "business_2_3",
+            "patterns": [
+                "What is the category of the owner of Gupta Rice Meel?"
+            ],
+            "responses": [
+                "OBC"
+            ]
+        },
+        {
+            "tag": "business_2_4",
+            "patterns": [
+                "What is the contact of Gupta Rice Meel?"
+            ],
+            "responses": [
+                "8381802045"
+            ]
+        },
+        {
+            "tag": "business_2_5",
+            "patterns": [
+                "What is the email of Gupta Rice Meel?"
+            ],
+            "responses": [
+                "anujgupta838180@gmail.com"
+            ]
+        },
+        {
+            "tag": "business_2_6",
+            "patterns": [
+                "What is the business industry of Gupta Rice Meel?"
+            ],
+            "responses": [
+                "Micro"
+            ]
+        },
+        {
+            "tag": "business_2_7",
+            "patterns": [
+                "What is the business activity of Gupta Rice Meel?"
+            ],
+            "responses": [
+                "Manufacturing"
+            ]
+        },
+        {
+            "tag": "business_2_8",
+            "patterns": [
+                "What is the address of Gupta Rice Meel?"
+            ],
+            "responses": [
+                "nan"
+            ]
+        },
+        {
+            "tag": "business_2_9",
+            "patterns": [
+                "What is the district of Gupta Rice Meel?"
+            ],
+            "responses": [
+                "Maharajganj "
+            ]
+        },
+        {
+            "tag": "business_2_10",
+            "patterns": [
+                "What is the state of Gupta Rice Meel?"
+            ],
+            "responses": [
+                "Uttar Pradesh"
+            ]
+        },
+        {
+            "tag": "business_2_11",
+            "patterns": [
+                "What is the pincode of Gupta Rice Meel?"
+            ],
+            "responses": [
+                "0"
+            ]
+        },
+        {
+            "tag": "business_3_0",
+            "patterns": [
+                "Who is the owner of First Furniture Udyog?"
+            ],
+            "responses": [
+                "Shristi Jaiswal"
+            ]
+        },
+        {
+            "tag": "business_3_1",
+            "patterns": [
+                "What is the designation of the owner of First Furniture Udyog?"
+            ],
+            "responses": [
+                "Proprietor"
+            ]
+        },
+        {
+            "tag": "business_3_2",
+            "patterns": [
+                "What is the gender of the owner of First Furniture Udyog?"
+            ],
+            "responses": [
+                "Male"
+            ]
+        },
+        {
+            "tag": "business_3_3",
+            "patterns": [
+                "What is the category of the owner of First Furniture Udyog?"
+            ],
+            "responses": [
+                "OBC"
+            ]
+        },
+        {
+            "tag": "business_3_4",
+            "patterns": [
+                "What is the contact of First Furniture Udyog?"
+            ],
+            "responses": [
+                "6394876384"
+            ]
+        },
+        {
+            "tag": "business_3_5",
+            "patterns": [
+                "What is the email of First Furniture Udyog?"
+            ],
+            "responses": [
+                "jaiswalshristi36@gmail.com"
+            ]
+        },
+        {
+            "tag": "business_3_6",
+            "patterns": [
+                "What is the business industry of First Furniture Udyog?"
+            ],
+            "responses": [
+                "Micro"
+            ]
+        },
+        {
+            "tag": "business_3_7",
+            "patterns": [
+                "What is the business activity of First Furniture Udyog?"
+            ],
+            "responses": [
+                "Manufacturing"
+            ]
+        },
+        {
+            "tag": "business_3_8",
+            "patterns": [
+                "What is the address of First Furniture Udyog?"
+            ],
+            "responses": [
+                "nan"
+            ]
+        },
+        {
+            "tag": "business_3_9",
+            "patterns": [
+                "What is the district of First Furniture Udyog?"
+            ],
+            "responses": [
+                "Maharajganj "
+            ]
+        },
+        {
+            "tag": "business_3_10",
+            "patterns": [
+                "What is the state of First Furniture Udyog?"
+            ],
+            "responses": [
+                "Uttar Pradesh"
+            ]
+        },
+        {
+            "tag": "business_3_11",
+            "patterns": [
+                "What is the pincode of First Furniture Udyog?"
+            ],
+            "responses": [
+                "0"
+            ]
+        },
+        {
+            "tag": "business_4_0",
+            "patterns": [
+                "Who is the owner of Deepak Kumar?"
+            ],
+            "responses": [
+                "Deepak Kumar"
+            ]
+        },
+        {
+            "tag": "business_4_1",
+            "patterns": [
+                "What is the designation of the owner of Deepak Kumar?"
+            ],
+            "responses": [
+                "Proprietor"
+            ]
+        },
+        {
+            "tag": "business_4_2",
+            "patterns": [
+                "What is the gender of the owner of Deepak Kumar?"
+            ],
+            "responses": [
+                "Male"
+            ]
+        },
+        {
+            "tag": "business_4_3",
+            "patterns": [
+                "What is the category of the owner of Deepak Kumar?"
+            ],
+            "responses": [
+                "OBC"
+            ]
+        },
+        {
+            "tag": "business_4_4",
+            "patterns": [
+                "What is the contact of Deepak Kumar?"
+            ],
+            "responses": [
+                "6386285265"
+            ]
+        },
+        {
+            "tag": "business_4_5",
+            "patterns": [
+                "What is the email of Deepak Kumar?"
+            ],
+            "responses": [
+                "bshukla1992@gmail.com"
+            ]
+        },
+        {
+            "tag": "business_4_6",
+            "patterns": [
+                "What is the business industry of Deepak Kumar?"
+            ],
+            "responses": [
+                "Micro"
+            ]
+        },
+        {
+            "tag": "business_4_7",
+            "patterns": [
+                "What is the business activity of Deepak Kumar?"
+            ],
+            "responses": [
+                "Manufacturing"
+            ]
+        },
+        {
+            "tag": "business_4_8",
+            "patterns": [
+                "What is the address of Deepak Kumar?"
+            ],
+            "responses": [
+                "nan"
+            ]
+        },
+        {
+            "tag": "business_4_9",
+            "patterns": [
+                "What is the district of Deepak Kumar?"
+            ],
+            "responses": [
+                "Maharajganj "
+            ]
+        },
+        {
+            "tag": "business_4_10",
+            "patterns": [
+                "What is the state of Deepak Kumar?"
+            ],
+            "responses": [
+                "Uttar Pradesh"
+            ]
+        },
+        {
+            "tag": "business_4_11",
+            "patterns": [
+                "What is the pincode of Deepak Kumar?"
+            ],
+            "responses": [
+                "0"
+            ]
+        },
+        {
+            "tag": "business_5_0",
+            "patterns": [
+                "Who is the owner of A.B Brothers Furniture Luxury House?"
+            ],
+            "responses": [
+                "Brijesh Yadav"
+            ]
+        },
+        {
+            "tag": "business_5_1",
+            "patterns": [
+                "What is the designation of the owner of A.B Brothers Furniture Luxury House?"
+            ],
+            "responses": [
+                "Proprietor"
+            ]
+        },
+        {
+            "tag": "business_5_2",
+            "patterns": [
+                "What is the gender of the owner of A.B Brothers Furniture Luxury House?"
+            ],
+            "responses": [
+                "Male"
+            ]
+        },
+        {
+            "tag": "business_5_3",
+            "patterns": [
+                "What is the category of the owner of A.B Brothers Furniture Luxury House?"
+            ],
+            "responses": [
+                "OBC"
+            ]
+        },
+        {
+            "tag": "business_5_4",
+            "patterns": [
+                "What is the contact of A.B Brothers Furniture Luxury House?"
+            ],
+            "responses": [
+                "9115330696"
+            ]
+        },
+        {
+            "tag": "business_5_5",
+            "patterns": [
+                "What is the email of A.B Brothers Furniture Luxury House?"
+            ],
+            "responses": [
+                "yadavbrijeshyadav058@gmail.com"
+            ]
+        },
+        {
+            "tag": "business_5_6",
+            "patterns": [
+                "What is the business industry of A.B Brothers Furniture Luxury House?"
+            ],
+            "responses": [
+                "Micro"
+            ]
+        },
+        {
+            "tag": "business_5_7",
+            "patterns": [
+                "What is the business activity of A.B Brothers Furniture Luxury House?"
+            ],
+            "responses": [
+                "Manufacturing"
+            ]
+        },
+        {
+            "tag": "business_5_8",
+            "patterns": [
+                "What is the address of A.B Brothers Furniture Luxury House?"
+            ],
+            "responses": [
+                "nan"
+            ]
+        },
+        {
+            "tag": "business_5_9",
+            "patterns": [
+                "What is the district of A.B Brothers Furniture Luxury House?"
+            ],
+            "responses": [
+                "Maharajganj "
+            ]
+        },
+        {
+            "tag": "business_5_10",
+            "patterns": [
+                "What is the state of A.B Brothers Furniture Luxury House?"
+            ],
+            "responses": [
+                "Uttar Pradesh"
+            ]
+        },
+        {
+            "tag": "business_5_11",
+            "patterns": [
+                "What is the pincode of A.B Brothers Furniture Luxury House?"
+            ],
+            "responses": [
+                "0"
+            ]
+        },
+        {
+            "tag": "business_6_0",
+            "patterns": [
+                "Who is the owner of A1 Aluminium G Glass?"
+            ],
+            "responses": [
+                "Mohammad Kalim"
+            ]
+        },
+        {
+            "tag": "business_6_1",
+            "patterns": [
+                "What is the designation of the owner of A1 Aluminium G Glass?"
+            ],
+            "responses": [
+                "Proprietor"
+            ]
+        },
+        {
+            "tag": "business_6_2",
+            "patterns": [
+                "What is the gender of the owner of A1 Aluminium G Glass?"
+            ],
+            "responses": [
+                "Male"
+            ]
+        },
+        {
+            "tag": "business_6_3",
+            "patterns": [
+                "What is the category of the owner of A1 Aluminium G Glass?"
+            ],
+            "responses": [
+                "OBC"
+            ]
+        },
+        {
+            "tag": "business_6_4",
+            "patterns": [
+                "What is the contact of A1 Aluminium G Glass?"
+            ],
+            "responses": [
+                "7270938386"
+            ]
+        },
+        {
+            "tag": "business_6_5",
+            "patterns": [
+                "What is the email of A1 Aluminium G Glass?"
+            ],
+            "responses": [
+                "mhkalim2122002@gmail.com"
+            ]
+        },
+        {
+            "tag": "business_6_6",
+            "patterns": [
+                "What is the business industry of A1 Aluminium G Glass?"
+            ],
+            "responses": [
+                "Micro"
+            ]
+        },
+        {
+            "tag": "business_6_7",
+            "patterns": [
+                "What is the business activity of A1 Aluminium G Glass?"
+            ],
+            "responses": [
+                "Manufacturing"
+            ]
+        },
+        {
+            "tag": "business_6_8",
+            "patterns": [
+                "What is the address of A1 Aluminium G Glass?"
+            ],
+            "responses": [
+                "nan"
+            ]
+        },
+        {
+            "tag": "business_6_9",
+            "patterns": [
+                "What is the district of A1 Aluminium G Glass?"
+            ],
+            "responses": [
+                "Maharajganj "
+            ]
+        },
+        {
+            "tag": "business_6_10",
+            "patterns": [
+                "What is the state of A1 Aluminium G Glass?"
+            ],
+            "responses": [
+                "Uttar Pradesh"
+            ]
+        },
+        {
+            "tag": "business_6_11",
+            "patterns": [
+                "What is the pincode of A1 Aluminium G Glass?"
+            ],
+            "responses": [
+                "0"
+            ]
+        },
+        {
+            "tag": "business_7_0",
+            "patterns": [
+                "Who is the owner of Freedam Beveraje Enterprises?"
+            ],
+            "responses": [
+                "Freedam Beveraje Enterprises"
+            ]
+        },
+        {
+            "tag": "business_7_1",
+            "patterns": [
+                "What is the designation of the owner of Freedam Beveraje Enterprises?"
+            ],
+            "responses": [
+                "Proprietor"
+            ]
+        },
+        {
+            "tag": "business_7_2",
+            "patterns": [
+                "What is the gender of the owner of Freedam Beveraje Enterprises?"
+            ],
+            "responses": [
+                "Male"
+            ]
+        },
+        {
+            "tag": "business_7_3",
+            "patterns": [
+                "What is the category of the owner of Freedam Beveraje Enterprises?"
+            ],
+            "responses": [
+                "OBC"
+            ]
+        },
+        {
+            "tag": "business_7_4",
+            "patterns": [
+                "What is the contact of Freedam Beveraje Enterprises?"
+            ],
+            "responses": [
+                "8429712780"
+            ]
+        },
+        {
+            "tag": "business_7_5",
+            "patterns": [
+                "What is the email of Freedam Beveraje Enterprises?"
+            ],
+            "responses": [
+                "tripathimonu234@gmail.com"
+            ]
+        },
+        {
+            "tag": "business_7_6",
+            "patterns": [
+                "What is the business industry of Freedam Beveraje Enterprises?"
+            ],
+            "responses": [
+                "Micro"
+            ]
+        },
+        {
+            "tag": "business_7_7",
+            "patterns": [
+                "What is the business activity of Freedam Beveraje Enterprises?"
+            ],
+            "responses": [
+                "Manufacturing"
+            ]
+        },
+        {
+            "tag": "business_7_8",
+            "patterns": [
+                "What is the address of Freedam Beveraje Enterprises?"
+            ],
+            "responses": [
+                "nan"
+            ]
+        },
+        {
+            "tag": "business_7_9",
+            "patterns": [
+                "What is the district of Freedam Beveraje Enterprises?"
+            ],
+            "responses": [
+                "Maharajganj "
+            ]
+        },
+        {
+            "tag": "business_7_10",
+            "patterns": [
+                "What is the state of Freedam Beveraje Enterprises?"
+            ],
+            "responses": [
+                "Uttar Pradesh"
+            ]
+        },
+        {
+            "tag": "business_7_11",
+            "patterns": [
+                "What is the pincode of Freedam Beveraje Enterprises?"
+            ],
+            "responses": [
+                "0"
+            ]
+        },
+        {
+            "tag": "business_8_0",
+            "patterns": [
+                "Who is the owner of Hariom Furniture?"
+            ],
+            "responses": [
+                "Om Prakash"
+            ]
+        },
+        {
+            "tag": "business_8_1",
+            "patterns": [
+                "What is the designation of the owner of Hariom Furniture?"
+            ],
+            "responses": [
+                "Proprietor"
+            ]
+        },
+        {
+            "tag": "business_8_2",
+            "patterns": [
+                "What is the gender of the owner of Hariom Furniture?"
+            ],
+            "responses": [
+                "Male"
+            ]
+        },
+        {
+            "tag": "business_8_3",
+            "patterns": [
+                "What is the category of the owner of Hariom Furniture?"
+            ],
+            "responses": [
+                "OBC"
+            ]
+        },
+        {
+            "tag": "business_8_4",
+            "patterns": [
+                "What is the contact of Hariom Furniture?"
+            ],
+            "responses": [
+                "9984352351"
+            ]
+        },
+        {
+            "tag": "business_8_5",
+            "patterns": [
+                "What is the email of Hariom Furniture?"
+            ],
+            "responses": [
+                "chaurasiyavishal908@gmail.com"
+            ]
+        },
+        {
+            "tag": "business_8_6",
+            "patterns": [
+                "What is the business industry of Hariom Furniture?"
+            ],
+            "responses": [
+                "Micro"
+            ]
+        },
+        {
+            "tag": "business_8_7",
+            "patterns": [
+                "What is the business activity of Hariom Furniture?"
+            ],
+            "responses": [
+                "Manufacturing"
+            ]
+        },
+        {
+            "tag": "business_8_8",
+            "patterns": [
+                "What is the address of Hariom Furniture?"
+            ],
+            "responses": [
+                "nan"
+            ]
+        },
+        {
+            "tag": "business_8_9",
+            "patterns": [
+                "What is the district of Hariom Furniture?"
+            ],
+            "responses": [
+                "Maharajganj "
+            ]
+        },
+        {
+            "tag": "business_8_10",
+            "patterns": [
+                "What is the state of Hariom Furniture?"
+            ],
+            "responses": [
+                "Uttar Pradesh"
+            ]
+        },
+        {
+            "tag": "business_8_11",
+            "patterns": [
+                "What is the pincode of Hariom Furniture?"
+            ],
+            "responses": [
+                "0"
+            ]
+        },
+        {
+            "tag": "business_9_0",
+            "patterns": [
+                "Who is the owner of Aarohi Furniture Udyog?"
+            ],
+            "responses": [
+                "Akhilesh Kumar"
+            ]
+        },
+        {
+            "tag": "business_9_1",
+            "patterns": [
+                "What is the designation of the owner of Aarohi Furniture Udyog?"
+            ],
+            "responses": [
+                "Proprietor"
+            ]
+        },
+        {
+            "tag": "business_9_2",
+            "patterns": [
+                "What is the gender of the owner of Aarohi Furniture Udyog?"
+            ],
+            "responses": [
+                "Male"
+            ]
+        },
+        {
+            "tag": "business_9_3",
+            "patterns": [
+                "What is the category of the owner of Aarohi Furniture Udyog?"
+            ],
+            "responses": [
+                "OBC"
+            ]
+        },
+        {
+            "tag": "business_9_4",
+            "patterns": [
+                "What is the contact of Aarohi Furniture Udyog?"
+            ],
+            "responses": [
+                "7619982272"
+            ]
+        },
+        {
+            "tag": "business_9_5",
+            "patterns": [
+                "What is the email of Aarohi Furniture Udyog?"
+            ],
+            "responses": [
+                "akhileshmrj@gmail.com"
+            ]
+        },
+        {
+            "tag": "business_9_6",
+            "patterns": [
+                "What is the business industry of Aarohi Furniture Udyog?"
+            ],
+            "responses": [
+                "Micro"
+            ]
+        },
+        {
+            "tag": "business_9_7",
+            "patterns": [
+                "What is the business activity of Aarohi Furniture Udyog?"
+            ],
+            "responses": [
+                "Manufacturing"
+            ]
+        },
+        {
+            "tag": "business_9_8",
+            "patterns": [
+                "What is the address of Aarohi Furniture Udyog?"
+            ],
+            "responses": [
+                "nan"
+            ]
+        },
+        {
+            "tag": "business_9_9",
+            "patterns": [
+                "What is the district of Aarohi Furniture Udyog?"
+            ],
+            "responses": [
+                "Maharajganj "
+            ]
+        },
+        {
+            "tag": "business_9_10",
+            "patterns": [
+                "What is the state of Aarohi Furniture Udyog?"
+            ],
+            "responses": [
+                "Uttar Pradesh"
+            ]
+        },
+        {
+            "tag": "business_9_11",
+            "patterns": [
+                "What is the pincode of Aarohi Furniture Udyog?"
+            ],
+            "responses": [
+                "0"
+            ]
+        },
+        {
+            "tag": "business_10_0",
+            "patterns": [
+                "Who is the owner of Hemant Furniture Udhyog?"
+            ],
+            "responses": [
+                "Ram Gopal Sharma"
+            ]
+        },
+        {
+            "tag": "business_10_1",
+            "patterns": [
+                "What is the designation of the owner of Hemant Furniture Udhyog?"
+            ],
+            "responses": [
+                "Proprietor"
+            ]
+        },
+        {
+            "tag": "business_10_2",
+            "patterns": [
+                "What is the gender of the owner of Hemant Furniture Udhyog?"
+            ],
+            "responses": [
+                "Male"
+            ]
+        },
+        {
+            "tag": "business_10_3",
+            "patterns": [
+                "What is the category of the owner of Hemant Furniture Udhyog?"
+            ],
+            "responses": [
+                "OBC"
+            ]
+        },
+        {
+            "tag": "business_10_4",
+            "patterns": [
+                "What is the contact of Hemant Furniture Udhyog?"
+            ],
+            "responses": [
+                "9838606765"
+            ]
+        },
+        {
+            "tag": "business_10_5",
+            "patterns": [
+                "What is the email of Hemant Furniture Udhyog?"
+            ],
+            "responses": [
+                "ramgopal6765@gmial.com"
+            ]
+        },
+        {
+            "tag": "business_10_6",
+            "patterns": [
+                "What is the business industry of Hemant Furniture Udhyog?"
+            ],
+            "responses": [
+                "Micro"
+            ]
+        },
+        {
+            "tag": "business_10_7",
+            "patterns": [
+                "What is the business activity of Hemant Furniture Udhyog?"
+            ],
+            "responses": [
+                "Manufacturing"
+            ]
+        },
+        {
+            "tag": "business_10_8",
+            "patterns": [
+                "What is the address of Hemant Furniture Udhyog?"
+            ],
+            "responses": [
+                "nan"
+            ]
+        },
+        {
+            "tag": "business_10_9",
+            "patterns": [
+                "What is the district of Hemant Furniture Udhyog?"
+            ],
+            "responses": [
+                "Maharajganj "
+            ]
+        },
+        {
+            "tag": "business_10_10",
+            "patterns": [
+                "What is the state of Hemant Furniture Udhyog?"
+            ],
+            "responses": [
+                "Uttar Pradesh"
+            ]
+        },
+        {
+            "tag": "business_10_11",
+            "patterns": [
+                "What is the pincode of Hemant Furniture Udhyog?"
+            ],
+            "responses": [
+                "0"
+            ]
+        },
+        {
+            "tag": "business_11_0",
+            "patterns": [
+                "Who is the owner of Agriculture Farming?"
+            ],
+            "responses": [
+                "Ramdayal"
+            ]
+        },
+        {
+            "tag": "business_11_1",
+            "patterns": [
+                "What is the designation of the owner of Agriculture Farming?"
+            ],
+            "responses": [
+                "Proprietor"
+            ]
+        },
+        {
+            "tag": "business_11_2",
+            "patterns": [
+                "What is the gender of the owner of Agriculture Farming?"
+            ],
+            "responses": [
+                "Male"
+            ]
+        },
+        {
+            "tag": "business_11_3",
+            "patterns": [
+                "What is the category of the owner of Agriculture Farming?"
+            ],
+            "responses": [
+                "OBC"
+            ]
+        },
+        {
+            "tag": "business_11_4",
+            "patterns": [
+                "What is the contact of Agriculture Farming?"
+            ],
+            "responses": [
+                "7238045386"
+            ]
+        },
+        {
+            "tag": "business_11_5",
+            "patterns": [
+                "What is the email of Agriculture Farming?"
+            ],
+            "responses": [
+                "ramdayalsahani1987@gmail.com"
+            ]
+        },
+        {
+            "tag": "business_11_6",
+            "patterns": [
+                "What is the business industry of Agriculture Farming?"
+            ],
+            "responses": [
+                "Micro"
+            ]
+        },
+        {
+            "tag": "business_11_7",
+            "patterns": [
+                "What is the business activity of Agriculture Farming?"
+            ],
+            "responses": [
+                "Manufacturing"
+            ]
+        },
+        {
+            "tag": "business_11_8",
+            "patterns": [
+                "What is the address of Agriculture Farming?"
+            ],
+            "responses": [
+                "nan"
+            ]
+        },
+        {
+            "tag": "business_11_9",
+            "patterns": [
+                "What is the district of Agriculture Farming?"
+            ],
+            "responses": [
+                "Maharajganj "
+            ]
+        },
+        {
+            "tag": "business_11_10",
+            "patterns": [
+                "What is the state of Agriculture Farming?"
+            ],
+            "responses": [
+                "Uttar Pradesh"
+            ]
+        },
+        {
+            "tag": "business_11_11",
+            "patterns": [
+                "What is the pincode of Agriculture Farming?"
+            ],
+            "responses": [
+                "0"
+            ]
+        },
+        {
+            "tag": "business_12_0",
+            "patterns": [
+                "Who is the owner of Akhilesh Ring Manufacturing?"
+            ],
+            "responses": [
+                "Shailesh Paswan"
+            ]
+        },
+        {
+            "tag": "business_12_1",
+            "patterns": [
+                "What is the designation of the owner of Akhilesh Ring Manufacturing?"
+            ],
+            "responses": [
+                "Proprietor"
+            ]
+        },
+        {
+            "tag": "business_12_2",
+            "patterns": [
+                "What is the gender of the owner of Akhilesh Ring Manufacturing?"
+            ],
+            "responses": [
+                "Male"
+            ]
+        },
+        {
+            "tag": "business_12_3",
+            "patterns": [
+                "What is the category of the owner of Akhilesh Ring Manufacturing?"
+            ],
+            "responses": [
+                "OBC"
+            ]
+        },
+        {
+            "tag": "business_12_4",
+            "patterns": [
+                "What is the contact of Akhilesh Ring Manufacturing?"
+            ],
+            "responses": [
+                "9369742691"
+            ]
+        },
+        {
+            "tag": "business_12_5",
+            "patterns": [
+                "What is the email of Akhilesh Ring Manufacturing?"
+            ],
+            "responses": [
+                "shaileshkumarpaswan498@gmail.com"
+            ]
+        },
+        {
+            "tag": "business_12_6",
+            "patterns": [
+                "What is the business industry of Akhilesh Ring Manufacturing?"
+            ],
+            "responses": [
+                "Micro"
+            ]
+        },
+        {
+            "tag": "business_12_7",
+            "patterns": [
+                "What is the business activity of Akhilesh Ring Manufacturing?"
+            ],
+            "responses": [
+                "Manufacturing"
+            ]
+        },
+        {
+            "tag": "business_12_8",
+            "patterns": [
+                "What is the address of Akhilesh Ring Manufacturing?"
+            ],
+            "responses": [
+                "nan"
+            ]
+        },
+        {
+            "tag": "business_12_9",
+            "patterns": [
+                "What is the district of Akhilesh Ring Manufacturing?"
+            ],
+            "responses": [
+                "Maharajganj "
+            ]
+        },
+        {
+            "tag": "business_12_10",
+            "patterns": [
+                "What is the state of Akhilesh Ring Manufacturing?"
+            ],
+            "responses": [
+                "Uttar Pradesh"
+            ]
+        },
+        {
+            "tag": "business_12_11",
+            "patterns": [
+                "What is the pincode of Akhilesh Ring Manufacturing?"
+            ],
+            "responses": [
+                "0"
+            ]
+        },
+        {
+            "tag": "business_13_0",
+            "patterns": [
+                "Who is the owner of Abhay Furniture House?"
+            ],
+            "responses": [
+                "Sanjay Vishwakarma"
+            ]
+        },
+        {
+            "tag": "business_13_1",
+            "patterns": [
+                "What is the designation of the owner of Abhay Furniture House?"
+            ],
+            "responses": [
+                "Proprietor"
+            ]
+        },
+        {
+            "tag": "business_13_2",
+            "patterns": [
+                "What is the gender of the owner of Abhay Furniture House?"
+            ],
+            "responses": [
+                "Male"
+            ]
+        },
+        {
+            "tag": "business_13_3",
+            "patterns": [
+                "What is the category of the owner of Abhay Furniture House?"
+            ],
+            "responses": [
+                "OBC"
+            ]
+        },
+        {
+            "tag": "business_13_4",
+            "patterns": [
+                "What is the contact of Abhay Furniture House?"
+            ],
+            "responses": [
+                "9005384867"
+            ]
+        },
+        {
+            "tag": "business_13_5",
+            "patterns": [
+                "What is the email of Abhay Furniture House?"
+            ],
+            "responses": [
+                "abhayfurniture12345@gmail.com"
+            ]
+        },
+        {
+            "tag": "business_13_6",
+            "patterns": [
+                "What is the business industry of Abhay Furniture House?"
+            ],
+            "responses": [
+                "Micro"
+            ]
+        },
+        {
+            "tag": "business_13_7",
+            "patterns": [
+                "What is the business activity of Abhay Furniture House?"
+            ],
+            "responses": [
+                "Manufacturing"
+            ]
+        },
+        {
+            "tag": "business_13_8",
+            "patterns": [
+                "What is the address of Abhay Furniture House?"
+            ],
+            "responses": [
+                "nan"
+            ]
+        },
+        {
+            "tag": "business_13_9",
+            "patterns": [
+                "What is the district of Abhay Furniture House?"
+            ],
+            "responses": [
+                "Maharajganj "
+            ]
+        },
+        {
+            "tag": "business_13_10",
+            "patterns": [
+                "What is the state of Abhay Furniture House?"
+            ],
+            "responses": [
+                "Uttar Pradesh"
+            ]
+        },
+        {
+            "tag": "business_13_11",
+            "patterns": [
+                "What is the pincode of Abhay Furniture House?"
+            ],
+            "responses": [
+                "0"
+            ]
+        },
+        {
+            "tag": "business_14_0",
+            "patterns": [
+                "Who is the owner of A Star Vagitable Forming?"
+            ],
+            "responses": [
+                "Ambrish"
+            ]
+        },
+        {
+            "tag": "business_14_1",
+            "patterns": [
+                "What is the designation of the owner of A Star Vagitable Forming?"
+            ],
+            "responses": [
+                "Proprietor"
+            ]
+        },
+        {
+            "tag": "business_14_2",
+            "patterns": [
+                "What is the gender of the owner of A Star Vagitable Forming?"
+            ],
+            "responses": [
+                "Male"
+            ]
+        },
+        {
+            "tag": "business_14_3",
+            "patterns": [
+                "What is the category of the owner of A Star Vagitable Forming?"
+            ],
+            "responses": [
+                "OBC"
+            ]
+        },
+        {
+            "tag": "business_14_4",
+            "patterns": [
+                "What is the contact of A Star Vagitable Forming?"
+            ],
+            "responses": [
+                "9670237996"
+            ]
+        },
+        {
+            "tag": "business_14_5",
+            "patterns": [
+                "What is the email of A Star Vagitable Forming?"
+            ],
+            "responses": [
+                "ambrishsharma7996@gmail.com"
+            ]
+        },
+        {
+            "tag": "business_14_6",
+            "patterns": [
+                "What is the business industry of A Star Vagitable Forming?"
+            ],
+            "responses": [
+                "Micro"
+            ]
+        },
+        {
+            "tag": "business_14_7",
+            "patterns": [
+                "What is the business activity of A Star Vagitable Forming?"
+            ],
+            "responses": [
+                "Manufacturing"
+            ]
+        },
+        {
+            "tag": "business_14_8",
+            "patterns": [
+                "What is the address of A Star Vagitable Forming?"
+            ],
+            "responses": [
+                "nan"
+            ]
+        },
+        {
+            "tag": "business_14_9",
+            "patterns": [
+                "What is the district of A Star Vagitable Forming?"
+            ],
+            "responses": [
+                "Maharajganj "
+            ]
+        },
+        {
+            "tag": "business_14_10",
+            "patterns": [
+                "What is the state of A Star Vagitable Forming?"
+            ],
+            "responses": [
+                "Uttar Pradesh"
+            ]
+        },
+        {
+            "tag": "business_14_11",
+            "patterns": [
+                "What is the pincode of A Star Vagitable Forming?"
+            ],
+            "responses": [
+                "0"
+            ]
+        },
+        {
+            "tag": "business_15_0",
+            "patterns": [
+                "Who is the owner of Divyansh Trunk House & Almira Coner?"
+            ],
+            "responses": [
+                "Dipchand"
+            ]
+        },
+        {
+            "tag": "business_15_1",
+            "patterns": [
+                "What is the designation of the owner of Divyansh Trunk House & Almira Coner?"
+            ],
+            "responses": [
+                "Proprietor"
+            ]
+        },
+        {
+            "tag": "business_15_2",
+            "patterns": [
+                "What is the gender of the owner of Divyansh Trunk House & Almira Coner?"
+            ],
+            "responses": [
+                "Male"
+            ]
+        },
+        {
+            "tag": "business_15_3",
+            "patterns": [
+                "What is the category of the owner of Divyansh Trunk House & Almira Coner?"
+            ],
+            "responses": [
+                "OBC"
+            ]
+        },
+        {
+            "tag": "business_15_4",
+            "patterns": [
+                "What is the contact of Divyansh Trunk House & Almira Coner?"
+            ],
+            "responses": [
+                "8115180148"
+            ]
+        },
+        {
+            "tag": "business_15_5",
+            "patterns": [
+                "What is the email of Divyansh Trunk House & Almira Coner?"
+            ],
+            "responses": [
+                "dipchand258@gmail.com"
+            ]
+        },
+        {
+            "tag": "business_15_6",
+            "patterns": [
+                "What is the business industry of Divyansh Trunk House & Almira Coner?"
+            ],
+            "responses": [
+                "Micro"
+            ]
+        },
+        {
+            "tag": "business_15_7",
+            "patterns": [
+                "What is the business activity of Divyansh Trunk House & Almira Coner?"
+            ],
+            "responses": [
+                "Manufacturing"
+            ]
+        },
+        {
+            "tag": "business_15_8",
+            "patterns": [
+                "What is the address of Divyansh Trunk House & Almira Coner?"
+            ],
+            "responses": [
+                "nan"
+            ]
+        },
+        {
+            "tag": "business_15_9",
+            "patterns": [
+                "What is the district of Divyansh Trunk House & Almira Coner?"
+            ],
+            "responses": [
+                "Maharajganj "
+            ]
+        },
+        {
+            "tag": "business_15_10",
+            "patterns": [
+                "What is the state of Divyansh Trunk House & Almira Coner?"
+            ],
+            "responses": [
+                "Uttar Pradesh"
+            ]
+        },
+        {
+            "tag": "business_15_11",
+            "patterns": [
+                "What is the pincode of Divyansh Trunk House & Almira Coner?"
+            ],
+            "responses": [
+                "0"
+            ]
+        },
+        {
+            "tag": "business_16_0",
+            "patterns": [
+                "Who is the owner of Gupta Dona Pattal Udyog?"
+            ],
+            "responses": [
+                "Rahul Rauniyar"
+            ]
+        },
+        {
+            "tag": "business_16_1",
+            "patterns": [
+                "What is the designation of the owner of Gupta Dona Pattal Udyog?"
+            ],
+            "responses": [
+                "Proprietor"
+            ]
+        },
+        {
+            "tag": "business_16_2",
+            "patterns": [
+                "What is the gender of the owner of Gupta Dona Pattal Udyog?"
+            ],
+            "responses": [
+                "Male"
+            ]
+        },
+        {
+            "tag": "business_16_3",
+            "patterns": [
+                "What is the category of the owner of Gupta Dona Pattal Udyog?"
+            ],
+            "responses": [
+                "OBC"
+            ]
+        },
+        {
+            "tag": "business_16_4",
+            "patterns": [
+                "What is the contact of Gupta Dona Pattal Udyog?"
+            ],
+            "responses": [
+                "7394870702"
+            ]
+        },
+        {
+            "tag": "business_16_5",
+            "patterns": [
+                "What is the email of Gupta Dona Pattal Udyog?"
+            ],
+            "responses": [
+                "rahulrauniyar273305@gmail.com"
+            ]
+        },
+        {
+            "tag": "business_16_6",
+            "patterns": [
+                "What is the business industry of Gupta Dona Pattal Udyog?"
+            ],
+            "responses": [
+                "Micro"
+            ]
+        },
+        {
+            "tag": "business_16_7",
+            "patterns": [
+                "What is the business activity of Gupta Dona Pattal Udyog?"
+            ],
+            "responses": [
+                "Manufacturing"
+            ]
+        },
+        {
+            "tag": "business_16_8",
+            "patterns": [
+                "What is the address of Gupta Dona Pattal Udyog?"
+            ],
+            "responses": [
+                "nan"
+            ]
+        },
+        {
+            "tag": "business_16_9",
+            "patterns": [
+                "What is the district of Gupta Dona Pattal Udyog?"
+            ],
+            "responses": [
+                "Maharajganj "
+            ]
+        },
+        {
+            "tag": "business_16_10",
+            "patterns": [
+                "What is the state of Gupta Dona Pattal Udyog?"
+            ],
+            "responses": [
+                "Uttar Pradesh"
+            ]
+        },
+        {
+            "tag": "business_16_11",
+            "patterns": [
+                "What is the pincode of Gupta Dona Pattal Udyog?"
+            ],
+            "responses": [
+                "0"
+            ]
+        },
+        {
+            "tag": "business_17_0",
+            "patterns": [
+                "Who is the owner of Furniture?"
+            ],
+            "responses": [
+                "Mithlesh Kushawaha"
+            ]
+        },
+        {
+            "tag": "business_17_1",
+            "patterns": [
+                "What is the designation of the owner of Furniture?"
+            ],
+            "responses": [
+                "Proprietor"
+            ]
+        },
+        {
+            "tag": "business_17_2",
+            "patterns": [
+                "What is the gender of the owner of Furniture?"
+            ],
+            "responses": [
+                "Male"
+            ]
+        },
+        {
+            "tag": "business_17_3",
+            "patterns": [
+                "What is the category of the owner of Furniture?"
+            ],
+            "responses": [
+                "OBC"
+            ]
+        },
+        {
+            "tag": "business_17_4",
+            "patterns": [
+                "What is the contact of Furniture?"
+            ],
+            "responses": [
+                "7080816684"
+            ]
+        },
+        {
+            "tag": "business_17_5",
+            "patterns": [
+                "What is the email of Furniture?"
+            ],
+            "responses": [
+                "mithilesh9005@gmail.com"
+            ]
+        },
+        {
+            "tag": "business_17_6",
+            "patterns": [
+                "What is the business industry of Furniture?"
+            ],
+            "responses": [
+                "Micro"
+            ]
+        },
+        {
+            "tag": "business_17_7",
+            "patterns": [
+                "What is the business activity of Furniture?"
+            ],
+            "responses": [
+                "Manufacturing"
+            ]
+        },
+        {
+            "tag": "business_17_8",
+            "patterns": [
+                "What is the address of Furniture?"
+            ],
+            "responses": [
+                "nan"
+            ]
+        },
+        {
+            "tag": "business_17_9",
+            "patterns": [
+                "What is the district of Furniture?"
+            ],
+            "responses": [
+                "Maharajganj "
+            ]
+        },
+        {
+            "tag": "business_17_10",
+            "patterns": [
+                "What is the state of Furniture?"
+            ],
+            "responses": [
+                "Uttar Pradesh"
+            ]
+        },
+        {
+            "tag": "business_17_11",
+            "patterns": [
+                "What is the pincode of Furniture?"
+            ],
+            "responses": [
+                "0"
+            ]
+        },
+        {
+            "tag": "business_18_0",
+            "patterns": [
+                "Who is the owner of Furniture?"
+            ],
+            "responses": [
+                "Vishal Kumar"
+            ]
+        },
+        {
+            "tag": "business_18_1",
+            "patterns": [
+                "What is the designation of the owner of Furniture?"
+            ],
+            "responses": [
+                "Proprietor"
+            ]
+        },
+        {
+            "tag": "business_18_2",
+            "patterns": [
+                "What is the gender of the owner of Furniture?"
+            ],
+            "responses": [
+                "Male"
+            ]
+        },
+        {
+            "tag": "business_18_3",
+            "patterns": [
+                "What is the category of the owner of Furniture?"
+            ],
+            "responses": [
+                "OBC"
+            ]
+        },
+        {
+            "tag": "business_18_4",
+            "patterns": [
+                "What is the contact of Furniture?"
+            ],
+            "responses": [
+                "8953523040"
+            ]
+        },
+        {
+            "tag": "business_18_5",
+            "patterns": [
+                "What is the email of Furniture?"
+            ],
+            "responses": [
+                "kushwahavishalkumar521@gmail.com"
+            ]
+        },
+        {
+            "tag": "business_18_6",
+            "patterns": [
+                "What is the business industry of Furniture?"
+            ],
+            "responses": [
+                "Micro"
+            ]
+        },
+        {
+            "tag": "business_18_7",
+            "patterns": [
+                "What is the business activity of Furniture?"
+            ],
+            "responses": [
+                "Manufacturing"
+            ]
+        },
+        {
+            "tag": "business_18_8",
+            "patterns": [
+                "What is the address of Furniture?"
+            ],
+            "responses": [
+                "nan"
+            ]
+        },
+        {
+            "tag": "business_18_9",
+            "patterns": [
+                "What is the district of Furniture?"
+            ],
+            "responses": [
+                "Maharajganj "
+            ]
+        },
+        {
+            "tag": "business_18_10",
+            "patterns": [
+                "What is the state of Furniture?"
+            ],
+            "responses": [
+                "Uttar Pradesh"
+            ]
+        },
+        {
+            "tag": "business_18_11",
+            "patterns": [
+                "What is the pincode of Furniture?"
+            ],
+            "responses": [
+                "0"
+            ]
+        },
+        {
+            "tag": "business_19_0",
+            "patterns": [
+                "Who is the owner of Vasudha Traders?"
+            ],
+            "responses": [
+                "Ankit Kumar Dwivedi"
+            ]
+        },
+        {
+            "tag": "business_19_1",
+            "patterns": [
+                "What is the designation of the owner of Vasudha Traders?"
+            ],
+            "responses": [
+                "Proprietor"
+            ]
+        },
+        {
+            "tag": "business_19_2",
+            "patterns": [
+                "What is the gender of the owner of Vasudha Traders?"
+            ],
+            "responses": [
+                "Male"
+            ]
+        },
+        {
+            "tag": "business_19_3",
+            "patterns": [
+                "What is the category of the owner of Vasudha Traders?"
+            ],
+            "responses": [
+                "OBC"
+            ]
+        },
+        {
+            "tag": "business_19_4",
+            "patterns": [
+                "What is the contact of Vasudha Traders?"
+            ],
+            "responses": [
+                "8948224787"
+            ]
+        },
+        {
+            "tag": "business_19_5",
+            "patterns": [
+                "What is the email of Vasudha Traders?"
+            ],
+            "responses": [
+                "tradersvasudha@gmail.com"
+            ]
+        },
+        {
+            "tag": "business_19_6",
+            "patterns": [
+                "What is the business industry of Vasudha Traders?"
+            ],
+            "responses": [
+                "Micro"
+            ]
+        },
+        {
+            "tag": "business_19_7",
+            "patterns": [
+                "What is the business activity of Vasudha Traders?"
+            ],
+            "responses": [
+                "Manufacturing"
+            ]
+        },
+        {
+            "tag": "business_19_8",
+            "patterns": [
+                "What is the address of Vasudha Traders?"
+            ],
+            "responses": [
+                "nan"
+            ]
+        },
+        {
+            "tag": "business_19_9",
+            "patterns": [
+                "What is the district of Vasudha Traders?"
+            ],
+            "responses": [
+                "Maharajganj "
+            ]
+        },
+        {
+            "tag": "business_19_10",
+            "patterns": [
+                "What is the state of Vasudha Traders?"
+            ],
+            "responses": [
+                "Uttar Pradesh"
+            ]
+        },
+        {
+            "tag": "business_19_11",
+            "patterns": [
+                "What is the pincode of Vasudha Traders?"
+            ],
+            "responses": [
+                "0"
+            ]
+        },
+        {
+            "tag": "business_20_0",
+            "patterns": [
+                "Who is the owner of Shashibala Silai Center?"
+            ],
+            "responses": [
+                "Shashibala"
+            ]
+        },
+        {
+            "tag": "business_20_1",
+            "patterns": [
+                "What is the designation of the owner of Shashibala Silai Center?"
+            ],
+            "responses": [
+                "Proprietor"
+            ]
+        },
+        {
+            "tag": "business_20_2",
+            "patterns": [
+                "What is the gender of the owner of Shashibala Silai Center?"
+            ],
+            "responses": [
+                "Male"
+            ]
+        },
+        {
+            "tag": "business_20_3",
+            "patterns": [
+                "What is the category of the owner of Shashibala Silai Center?"
+            ],
+            "responses": [
+                "OBC"
+            ]
+        },
+        {
+            "tag": "business_20_4",
+            "patterns": [
+                "What is the contact of Shashibala Silai Center?"
+            ],
+            "responses": [
+                "7800766363"
+            ]
+        },
+        {
+            "tag": "business_20_5",
+            "patterns": [
+                "What is the email of Shashibala Silai Center?"
+            ],
+            "responses": [
+                "riyachaurasiya1707@gmail.com"
+            ]
+        },
+        {
+            "tag": "business_20_6",
+            "patterns": [
+                "What is the business industry of Shashibala Silai Center?"
+            ],
+            "responses": [
+                "Micro"
+            ]
+        },
+        {
+            "tag": "business_20_7",
+            "patterns": [
+                "What is the business activity of Shashibala Silai Center?"
+            ],
+            "responses": [
+                "Manufacturing"
+            ]
+        },
+        {
+            "tag": "business_20_8",
+            "patterns": [
+                "What is the address of Shashibala Silai Center?"
+            ],
+            "responses": [
+                "nan"
+            ]
+        },
+        {
+            "tag": "business_20_9",
+            "patterns": [
+                "What is the district of Shashibala Silai Center?"
+            ],
+            "responses": [
+                "Maharajganj "
+            ]
+        },
+        {
+            "tag": "business_20_10",
+            "patterns": [
+                "What is the state of Shashibala Silai Center?"
+            ],
+            "responses": [
+                "Uttar Pradesh"
+            ]
+        },
+        {
+            "tag": "business_20_11",
+            "patterns": [
+                "What is the pincode of Shashibala Silai Center?"
+            ],
+            "responses": [
+                "0"
+            ]
+        },
+        {
+            "tag": "business_21_0",
+            "patterns": [
+                "Who is the owner of Ms Vishwakrma Furniture Udyog?"
+            ],
+            "responses": [
+                "Setbhawan Vishwakrma"
+            ]
+        },
+        {
+            "tag": "business_21_1",
+            "patterns": [
+                "What is the designation of the owner of Ms Vishwakrma Furniture Udyog?"
+            ],
+            "responses": [
+                "Proprietor"
+            ]
+        },
+        {
+            "tag": "business_21_2",
+            "patterns": [
+                "What is the gender of the owner of Ms Vishwakrma Furniture Udyog?"
+            ],
+            "responses": [
+                "Male"
+            ]
+        },
+        {
+            "tag": "business_21_3",
+            "patterns": [
+                "What is the category of the owner of Ms Vishwakrma Furniture Udyog?"
+            ],
+            "responses": [
+                "OBC"
+            ]
+        },
+        {
+            "tag": "business_21_4",
+            "patterns": [
+                "What is the contact of Ms Vishwakrma Furniture Udyog?"
+            ],
+            "responses": [
+                "8601651699"
+            ]
+        },
+        {
+            "tag": "business_21_5",
+            "patterns": [
+                "What is the email of Ms Vishwakrma Furniture Udyog?"
+            ],
+            "responses": [
+                "setbhawan86016516@gmail.com"
+            ]
+        },
+        {
+            "tag": "business_21_6",
+            "patterns": [
+                "What is the business industry of Ms Vishwakrma Furniture Udyog?"
+            ],
+            "responses": [
+                "Micro"
+            ]
+        },
+        {
+            "tag": "business_21_7",
+            "patterns": [
+                "What is the business activity of Ms Vishwakrma Furniture Udyog?"
+            ],
+            "responses": [
+                "Manufacturing"
+            ]
+        },
+        {
+            "tag": "business_21_8",
+            "patterns": [
+                "What is the address of Ms Vishwakrma Furniture Udyog?"
+            ],
+            "responses": [
+                "nan"
+            ]
+        },
+        {
+            "tag": "business_21_9",
+            "patterns": [
+                "What is the district of Ms Vishwakrma Furniture Udyog?"
+            ],
+            "responses": [
+                "Maharajganj "
+            ]
+        },
+        {
+            "tag": "business_21_10",
+            "patterns": [
+                "What is the state of Ms Vishwakrma Furniture Udyog?"
+            ],
+            "responses": [
+                "Uttar Pradesh"
+            ]
+        },
+        {
+            "tag": "business_21_11",
+            "patterns": [
+                "What is the pincode of Ms Vishwakrma Furniture Udyog?"
+            ],
+            "responses": [
+                "0"
+            ]
+        },
+        {
+            "tag": "business_22_0",
+            "patterns": [
+                "Who is the owner of Yadav Paneer Udyog?"
+            ],
+            "responses": [
+                "Tribhuwan Yadav"
+            ]
+        },
+        {
+            "tag": "business_22_1",
+            "patterns": [
+                "What is the designation of the owner of Yadav Paneer Udyog?"
+            ],
+            "responses": [
+                "Proprietor"
+            ]
+        },
+        {
+            "tag": "business_22_2",
+            "patterns": [
+                "What is the gender of the owner of Yadav Paneer Udyog?"
+            ],
+            "responses": [
+                "Male"
+            ]
+        },
+        {
+            "tag": "business_22_3",
+            "patterns": [
+                "What is the category of the owner of Yadav Paneer Udyog?"
+            ],
+            "responses": [
+                "OBC"
+            ]
+        },
+        {
+            "tag": "business_22_4",
+            "patterns": [
+                "What is the contact of Yadav Paneer Udyog?"
+            ],
+            "responses": [
+                "9651507751"
+            ]
+        },
+        {
+            "tag": "business_22_5",
+            "patterns": [
+                "What is the email of Yadav Paneer Udyog?"
+            ],
+            "responses": [
+                "www.tribhuwanyadav896@gmail.com"
+            ]
+        },
+        {
+            "tag": "business_22_6",
+            "patterns": [
+                "What is the business industry of Yadav Paneer Udyog?"
+            ],
+            "responses": [
+                "Micro"
+            ]
+        },
+        {
+            "tag": "business_22_7",
+            "patterns": [
+                "What is the business activity of Yadav Paneer Udyog?"
+            ],
+            "responses": [
+                "Manufacturing"
+            ]
+        },
+        {
+            "tag": "business_22_8",
+            "patterns": [
+                "What is the address of Yadav Paneer Udyog?"
+            ],
+            "responses": [
+                "nan"
+            ]
+        },
+        {
+            "tag": "business_22_9",
+            "patterns": [
+                "What is the district of Yadav Paneer Udyog?"
+            ],
+            "responses": [
+                "Maharajganj "
+            ]
+        },
+        {
+            "tag": "business_22_10",
+            "patterns": [
+                "What is the state of Yadav Paneer Udyog?"
+            ],
+            "responses": [
+                "Uttar Pradesh"
+            ]
+        },
+        {
+            "tag": "business_22_11",
+            "patterns": [
+                "What is the pincode of Yadav Paneer Udyog?"
+            ],
+            "responses": [
+                "0"
+            ]
+        },
+        {
+            "tag": "business_23_0",
+            "patterns": [
+                "Who is the owner of Vidyarthi Production?"
+            ],
+            "responses": [
+                "Mayank Mani Tripathi"
+            ]
+        },
+        {
+            "tag": "business_23_1",
+            "patterns": [
+                "What is the designation of the owner of Vidyarthi Production?"
+            ],
+            "responses": [
+                "Proprietor"
+            ]
+        },
+        {
+            "tag": "business_23_2",
+            "patterns": [
+                "What is the gender of the owner of Vidyarthi Production?"
+            ],
+            "responses": [
+                "Male"
+            ]
+        },
+        {
+            "tag": "business_23_3",
+            "patterns": [
+                "What is the category of the owner of Vidyarthi Production?"
+            ],
+            "responses": [
+                "OBC"
+            ]
+        },
+        {
+            "tag": "business_23_4",
+            "patterns": [
+                "What is the contact of Vidyarthi Production?"
+            ],
+            "responses": [
+                "9936628497"
+            ]
+        },
+        {
+            "tag": "business_23_5",
+            "patterns": [
+                "What is the email of Vidyarthi Production?"
+            ],
+            "responses": [
+                "mayankmtripathi550@gmail.com"
+            ]
+        },
+        {
+            "tag": "business_23_6",
+            "patterns": [
+                "What is the business industry of Vidyarthi Production?"
+            ],
+            "responses": [
+                "Micro"
+            ]
+        },
+        {
+            "tag": "business_23_7",
+            "patterns": [
+                "What is the business activity of Vidyarthi Production?"
+            ],
+            "responses": [
+                "Manufacturing"
+            ]
+        },
+        {
+            "tag": "business_23_8",
+            "patterns": [
+                "What is the address of Vidyarthi Production?"
+            ],
+            "responses": [
+                "nan"
+            ]
+        },
+        {
+            "tag": "business_23_9",
+            "patterns": [
+                "What is the district of Vidyarthi Production?"
+            ],
+            "responses": [
+                "Maharajganj "
+            ]
+        },
+        {
+            "tag": "business_23_10",
+            "patterns": [
+                "What is the state of Vidyarthi Production?"
+            ],
+            "responses": [
+                "Uttar Pradesh"
+            ]
+        },
+        {
+            "tag": "business_23_11",
+            "patterns": [
+                "What is the pincode of Vidyarthi Production?"
+            ],
+            "responses": [
+                "0"
+            ]
+        },
+        {
+            "tag": "business_24_0",
+            "patterns": [
+                "Who is the owner of Saif Blasting & Painting?"
+            ],
+            "responses": [
+                "Siroj Khan"
+            ]
+        },
+        {
+            "tag": "business_24_1",
+            "patterns": [
+                "What is the designation of the owner of Saif Blasting & Painting?"
+            ],
+            "responses": [
+                "Proprietor"
+            ]
+        },
+        {
+            "tag": "business_24_2",
+            "patterns": [
+                "What is the gender of the owner of Saif Blasting & Painting?"
+            ],
+            "responses": [
+                "Male"
+            ]
+        },
+        {
+            "tag": "business_24_3",
+            "patterns": [
+                "What is the category of the owner of Saif Blasting & Painting?"
+            ],
+            "responses": [
+                "OBC"
+            ]
+        },
+        {
+            "tag": "business_24_4",
+            "patterns": [
+                "What is the contact of Saif Blasting & Painting?"
+            ],
+            "responses": [
+                " "
+            ]
+        },
+        {
+            "tag": "business_24_5",
+            "patterns": [
+                "What is the email of Saif Blasting & Painting?"
+            ],
+            "responses": [
+                "khansiroj28@gmail.com"
+            ]
+        },
+        {
+            "tag": "business_24_6",
+            "patterns": [
+                "What is the business industry of Saif Blasting & Painting?"
+            ],
+            "responses": [
+                "Micro"
+            ]
+        },
+        {
+            "tag": "business_24_7",
+            "patterns": [
+                "What is the business activity of Saif Blasting & Painting?"
+            ],
+            "responses": [
+                "Manufacturing"
+            ]
+        },
+        {
+            "tag": "business_24_8",
+            "patterns": [
+                "What is the address of Saif Blasting & Painting?"
+            ],
+            "responses": [
+                "nan"
+            ]
+        },
+        {
+            "tag": "business_24_9",
+            "patterns": [
+                "What is the district of Saif Blasting & Painting?"
+            ],
+            "responses": [
+                "Maharajganj "
+            ]
+        },
+        {
+            "tag": "business_24_10",
+            "patterns": [
+                "What is the state of Saif Blasting & Painting?"
+            ],
+            "responses": [
+                "Uttar Pradesh"
+            ]
+        },
+        {
+            "tag": "business_24_11",
+            "patterns": [
+                "What is the pincode of Saif Blasting & Painting?"
+            ],
+            "responses": [
+                "0"
+            ]
+        },
+        {
+            "tag": "business_25_0",
+            "patterns": [
+                "Who is the owner of Hanuman Furniture?"
+            ],
+            "responses": [
+                "Ankita Pandey"
+            ]
+        },
+        {
+            "tag": "business_25_1",
+            "patterns": [
+                "What is the designation of the owner of Hanuman Furniture?"
+            ],
+            "responses": [
+                "Proprietor"
+            ]
+        },
+        {
+            "tag": "business_25_2",
+            "patterns": [
+                "What is the gender of the owner of Hanuman Furniture?"
+            ],
+            "responses": [
+                "Male"
+            ]
+        },
+        {
+            "tag": "business_25_3",
+            "patterns": [
+                "What is the category of the owner of Hanuman Furniture?"
+            ],
+            "responses": [
+                "OBC"
+            ]
+        },
+        {
+            "tag": "business_25_4",
+            "patterns": [
+                "What is the contact of Hanuman Furniture?"
+            ],
+            "responses": [
+                "9936801325"
+            ]
+        },
+        {
+            "tag": "business_25_5",
+            "patterns": [
+                "What is the email of Hanuman Furniture?"
+            ],
+            "responses": [
+                "bhanupandey9936801325@gmail.com"
+            ]
+        },
+        {
+            "tag": "business_25_6",
+            "patterns": [
+                "What is the business industry of Hanuman Furniture?"
+            ],
+            "responses": [
+                "Micro"
+            ]
+        },
+        {
+            "tag": "business_25_7",
+            "patterns": [
+                "What is the business activity of Hanuman Furniture?"
+            ],
+            "responses": [
+                "Manufacturing"
+            ]
+        },
+        {
+            "tag": "business_25_8",
+            "patterns": [
+                "What is the address of Hanuman Furniture?"
+            ],
+            "responses": [
+                "nan"
+            ]
+        },
+        {
+            "tag": "business_25_9",
+            "patterns": [
+                "What is the district of Hanuman Furniture?"
+            ],
+            "responses": [
+                "Maharajganj "
+            ]
+        },
+        {
+            "tag": "business_25_10",
+            "patterns": [
+                "What is the state of Hanuman Furniture?"
+            ],
+            "responses": [
+                "Uttar Pradesh"
+            ]
+        },
+        {
+            "tag": "business_25_11",
+            "patterns": [
+                "What is the pincode of Hanuman Furniture?"
+            ],
+            "responses": [
+                "0"
+            ]
+        },
+        {
+            "tag": "business_26_0",
+            "patterns": [
+                "Who is the owner of M/S Sagar Bricks Field?"
+            ],
+            "responses": [
+                "Harprit Singh"
+            ]
+        },
+        {
+            "tag": "business_26_1",
+            "patterns": [
+                "What is the designation of the owner of M/S Sagar Bricks Field?"
+            ],
+            "responses": [
+                "Proprietor"
+            ]
+        },
+        {
+            "tag": "business_26_2",
+            "patterns": [
+                "What is the gender of the owner of M/S Sagar Bricks Field?"
+            ],
+            "responses": [
+                "Male"
+            ]
+        },
+        {
+            "tag": "business_26_3",
+            "patterns": [
+                "What is the category of the owner of M/S Sagar Bricks Field?"
+            ],
+            "responses": [
+                "OBC"
+            ]
+        },
+        {
+            "tag": "business_26_4",
+            "patterns": [
+                "What is the contact of M/S Sagar Bricks Field?"
+            ],
+            "responses": [
+                "9935225244"
+            ]
+        },
+        {
+            "tag": "business_26_5",
+            "patterns": [
+                "What is the email of M/S Sagar Bricks Field?"
+            ],
+            "responses": [
+                "sunilsingh993522@gmail.com"
+            ]
+        },
+        {
+            "tag": "business_26_6",
+            "patterns": [
+                "What is the business industry of M/S Sagar Bricks Field?"
+            ],
+            "responses": [
+                "Micro"
+            ]
+        },
+        {
+            "tag": "business_26_7",
+            "patterns": [
+                "What is the business activity of M/S Sagar Bricks Field?"
+            ],
+            "responses": [
+                "Manufacturing"
+            ]
+        },
+        {
+            "tag": "business_26_8",
+            "patterns": [
+                "What is the address of M/S Sagar Bricks Field?"
+            ],
+            "responses": [
+                "nan"
+            ]
+        },
+        {
+            "tag": "business_26_9",
+            "patterns": [
+                "What is the district of M/S Sagar Bricks Field?"
+            ],
+            "responses": [
+                "Maharajganj "
+            ]
+        },
+        {
+            "tag": "business_26_10",
+            "patterns": [
+                "What is the state of M/S Sagar Bricks Field?"
+            ],
+            "responses": [
+                "Uttar Pradesh"
+            ]
+        },
+        {
+            "tag": "business_26_11",
+            "patterns": [
+                "What is the pincode of M/S Sagar Bricks Field?"
+            ],
+            "responses": [
+                "0"
+            ]
+        },
+        {
+            "tag": "business_27_0",
+            "patterns": [
+                "Who is the owner of Rudra Traders?"
+            ],
+            "responses": [
+                "Anurag Jaiswal"
+            ]
+        },
+        {
+            "tag": "business_27_1",
+            "patterns": [
+                "What is the designation of the owner of Rudra Traders?"
+            ],
+            "responses": [
+                "Proprietor"
+            ]
+        },
+        {
+            "tag": "business_27_2",
+            "patterns": [
+                "What is the gender of the owner of Rudra Traders?"
+            ],
+            "responses": [
+                "Male"
+            ]
+        },
+        {
+            "tag": "business_27_3",
+            "patterns": [
+                "What is the category of the owner of Rudra Traders?"
+            ],
+            "responses": [
+                "OBC"
+            ]
+        },
+        {
+            "tag": "business_27_4",
+            "patterns": [
+                "What is the contact of Rudra Traders?"
+            ],
+            "responses": [
+                "9129775952"
+            ]
+        },
+        {
+            "tag": "business_27_5",
+            "patterns": [
+                "What is the email of Rudra Traders?"
+            ],
+            "responses": [
+                "anuragjaiswal10864@gmail.com"
+            ]
+        },
+        {
+            "tag": "business_27_6",
+            "patterns": [
+                "What is the business industry of Rudra Traders?"
+            ],
+            "responses": [
+                "Micro"
+            ]
+        },
+        {
+            "tag": "business_27_7",
+            "patterns": [
+                "What is the business activity of Rudra Traders?"
+            ],
+            "responses": [
+                "Manufacturing"
+            ]
+        },
+        {
+            "tag": "business_27_8",
+            "patterns": [
+                "What is the address of Rudra Traders?"
+            ],
+            "responses": [
+                "nan"
+            ]
+        },
+        {
+            "tag": "business_27_9",
+            "patterns": [
+                "What is the district of Rudra Traders?"
+            ],
+            "responses": [
+                "Maharajganj "
+            ]
+        },
+        {
+            "tag": "business_27_10",
+            "patterns": [
+                "What is the state of Rudra Traders?"
+            ],
+            "responses": [
+                "Uttar Pradesh"
+            ]
+        },
+        {
+            "tag": "business_27_11",
+            "patterns": [
+                "What is the pincode of Rudra Traders?"
+            ],
+            "responses": [
+                "0"
+            ]
+        },
+        {
+            "tag": "business_28_0",
+            "patterns": [
+                "Who is the owner of Vindhyvasini Electronics. Tahsil-Road,Nichlaul?"
+            ],
+            "responses": [
+                "Sunil Kushwaha"
+            ]
+        },
+        {
+            "tag": "business_28_1",
+            "patterns": [
+                "What is the designation of the owner of Vindhyvasini Electronics. Tahsil-Road,Nichlaul?"
+            ],
+            "responses": [
+                "Proprietor"
+            ]
+        },
+        {
+            "tag": "business_28_2",
+            "patterns": [
+                "What is the gender of the owner of Vindhyvasini Electronics. Tahsil-Road,Nichlaul?"
+            ],
+            "responses": [
+                "Male"
+            ]
+        },
+        {
+            "tag": "business_28_3",
+            "patterns": [
+                "What is the category of the owner of Vindhyvasini Electronics. Tahsil-Road,Nichlaul?"
+            ],
+            "responses": [
+                "OBC"
+            ]
+        },
+        {
+            "tag": "business_28_4",
+            "patterns": [
+                "What is the contact of Vindhyvasini Electronics. Tahsil-Road,Nichlaul?"
+            ],
+            "responses": [
+                "8390986958"
+            ]
+        },
+        {
+            "tag": "business_28_5",
+            "patterns": [
+                "What is the email of Vindhyvasini Electronics. Tahsil-Road,Nichlaul?"
+            ],
+            "responses": [
+                "sandeepku549@gmail.com"
+            ]
+        },
+        {
+            "tag": "business_28_6",
+            "patterns": [
+                "What is the business industry of Vindhyvasini Electronics. Tahsil-Road,Nichlaul?"
+            ],
+            "responses": [
+                "Micro"
+            ]
+        },
+        {
+            "tag": "business_28_7",
+            "patterns": [
+                "What is the business activity of Vindhyvasini Electronics. Tahsil-Road,Nichlaul?"
+            ],
+            "responses": [
+                "Manufacturing"
+            ]
+        },
+        {
+            "tag": "business_28_8",
+            "patterns": [
+                "What is the address of Vindhyvasini Electronics. Tahsil-Road,Nichlaul?"
+            ],
+            "responses": [
+                "nan"
+            ]
+        },
+        {
+            "tag": "business_28_9",
+            "patterns": [
+                "What is the district of Vindhyvasini Electronics. Tahsil-Road,Nichlaul?"
+            ],
+            "responses": [
+                "Maharajganj "
+            ]
+        },
+        {
+            "tag": "business_28_10",
+            "patterns": [
+                "What is the state of Vindhyvasini Electronics. Tahsil-Road,Nichlaul?"
+            ],
+            "responses": [
+                "Uttar Pradesh"
+            ]
+        },
+        {
+            "tag": "business_28_11",
+            "patterns": [
+                "What is the pincode of Vindhyvasini Electronics. Tahsil-Road,Nichlaul?"
+            ],
+            "responses": [
+                "0"
+            ]
+        },
+        {
+            "tag": "business_29_0",
+            "patterns": [
+                "Who is the owner of Steel Box Almira Shop?"
+            ],
+            "responses": [
+                "Ramkesh Chauhan"
+            ]
+        },
+        {
+            "tag": "business_29_1",
+            "patterns": [
+                "What is the designation of the owner of Steel Box Almira Shop?"
+            ],
+            "responses": [
+                "Proprietor"
+            ]
+        },
+        {
+            "tag": "business_29_2",
+            "patterns": [
+                "What is the gender of the owner of Steel Box Almira Shop?"
+            ],
+            "responses": [
+                "Male"
+            ]
+        },
+        {
+            "tag": "business_29_3",
+            "patterns": [
+                "What is the category of the owner of Steel Box Almira Shop?"
+            ],
+            "responses": [
+                "OBC"
+            ]
+        },
+        {
+            "tag": "business_29_4",
+            "patterns": [
+                "What is the contact of Steel Box Almira Shop?"
+            ],
+            "responses": [
+                "7570857940"
+            ]
+        },
+        {
+            "tag": "business_29_5",
+            "patterns": [
+                "What is the email of Steel Box Almira Shop?"
+            ],
+            "responses": [
+                "shikandar7570@gmail.com"
+            ]
+        },
+        {
+            "tag": "business_29_6",
+            "patterns": [
+                "What is the business industry of Steel Box Almira Shop?"
+            ],
+            "responses": [
+                "Micro"
+            ]
+        },
+        {
+            "tag": "business_29_7",
+            "patterns": [
+                "What is the business activity of Steel Box Almira Shop?"
+            ],
+            "responses": [
+                "Manufacturing"
+            ]
+        },
+        {
+            "tag": "business_29_8",
+            "patterns": [
+                "What is the address of Steel Box Almira Shop?"
+            ],
+            "responses": [
+                "nan"
+            ]
+        },
+        {
+            "tag": "business_29_9",
+            "patterns": [
+                "What is the district of Steel Box Almira Shop?"
+            ],
+            "responses": [
+                "Maharajganj "
+            ]
+        },
+        {
+            "tag": "business_29_10",
+            "patterns": [
+                "What is the state of Steel Box Almira Shop?"
+            ],
+            "responses": [
+                "Uttar Pradesh"
+            ]
+        },
+        {
+            "tag": "business_29_11",
+            "patterns": [
+                "What is the pincode of Steel Box Almira Shop?"
+            ],
+            "responses": [
+                "0"
+            ]
+        },
+        {
+            "tag": "business_30_0",
+            "patterns": [
+                "Who is the owner of Arun Kumar Patel?"
+            ],
+            "responses": [
+                "Arun Kumar Patel"
+            ]
+        },
+        {
+            "tag": "business_30_1",
+            "patterns": [
+                "What is the designation of the owner of Arun Kumar Patel?"
+            ],
+            "responses": [
+                "Proprietor"
+            ]
+        },
+        {
+            "tag": "business_30_2",
+            "patterns": [
+                "What is the gender of the owner of Arun Kumar Patel?"
+            ],
+            "responses": [
+                "Male"
+            ]
+        },
+        {
+            "tag": "business_30_3",
+            "patterns": [
+                "What is the category of the owner of Arun Kumar Patel?"
+            ],
+            "responses": [
+                "OBC"
+            ]
+        },
+        {
+            "tag": "business_30_4",
+            "patterns": [
+                "What is the contact of Arun Kumar Patel?"
+            ],
+            "responses": [
+                "6387681437"
+            ]
+        },
+        {
+            "tag": "business_30_5",
+            "patterns": [
+                "What is the email of Arun Kumar Patel?"
+            ],
+            "responses": [
+                "arunkumarpatel646@gmail.com"
+            ]
+        },
+        {
+            "tag": "business_30_6",
+            "patterns": [
+                "What is the business industry of Arun Kumar Patel?"
+            ],
+            "responses": [
+                "Micro"
+            ]
+        },
+        {
+            "tag": "business_30_7",
+            "patterns": [
+                "What is the business activity of Arun Kumar Patel?"
+            ],
+            "responses": [
+                "Manufacturing"
+            ]
+        },
+        {
+            "tag": "business_30_8",
+            "patterns": [
+                "What is the address of Arun Kumar Patel?"
+            ],
+            "responses": [
+                "nan"
+            ]
+        },
+        {
+            "tag": "business_30_9",
+            "patterns": [
+                "What is the district of Arun Kumar Patel?"
+            ],
+            "responses": [
+                "Maharajganj "
+            ]
+        },
+        {
+            "tag": "business_30_10",
+            "patterns": [
+                "What is the state of Arun Kumar Patel?"
+            ],
+            "responses": [
+                "Uttar Pradesh"
+            ]
+        },
+        {
+            "tag": "business_30_11",
+            "patterns": [
+                "What is the pincode of Arun Kumar Patel?"
+            ],
+            "responses": [
+                "0"
+            ]
+        },
+        {
+            "tag": "business_31_0",
+            "patterns": [
+                "Who is the owner of Vijay Hardware?"
+            ],
+            "responses": [
+                "Vijay Pratap"
+            ]
+        },
+        {
+            "tag": "business_31_1",
+            "patterns": [
+                "What is the designation of the owner of Vijay Hardware?"
+            ],
+            "responses": [
+                "Proprietor"
+            ]
+        },
+        {
+            "tag": "business_31_2",
+            "patterns": [
+                "What is the gender of the owner of Vijay Hardware?"
+            ],
+            "responses": [
+                "Male"
+            ]
+        },
+        {
+            "tag": "business_31_3",
+            "patterns": [
+                "What is the category of the owner of Vijay Hardware?"
+            ],
+            "responses": [
+                "OBC"
+            ]
+        },
+        {
+            "tag": "business_31_4",
+            "patterns": [
+                "What is the contact of Vijay Hardware?"
+            ],
+            "responses": [
+                "7266996434"
+            ]
+        },
+        {
+            "tag": "business_31_5",
+            "patterns": [
+                "What is the email of Vijay Hardware?"
+            ],
+            "responses": [
+                "vijayarya8112@gmail.com"
+            ]
+        },
+        {
+            "tag": "business_31_6",
+            "patterns": [
+                "What is the business industry of Vijay Hardware?"
+            ],
+            "responses": [
+                "Micro"
+            ]
+        },
+        {
+            "tag": "business_31_7",
+            "patterns": [
+                "What is the business activity of Vijay Hardware?"
+            ],
+            "responses": [
+                "Manufacturing"
+            ]
+        },
+        {
+            "tag": "business_31_8",
+            "patterns": [
+                "What is the address of Vijay Hardware?"
+            ],
+            "responses": [
+                "nan"
+            ]
+        },
+        {
+            "tag": "business_31_9",
+            "patterns": [
+                "What is the district of Vijay Hardware?"
+            ],
+            "responses": [
+                "Maharajganj "
+            ]
+        },
+        {
+            "tag": "business_31_10",
+            "patterns": [
+                "What is the state of Vijay Hardware?"
+            ],
+            "responses": [
+                "Uttar Pradesh"
+            ]
+        },
+        {
+            "tag": "business_31_11",
+            "patterns": [
+                "What is the pincode of Vijay Hardware?"
+            ],
+            "responses": [
+                "0"
+            ]
+        },
+        {
+            "tag": "business_32_0",
+            "patterns": [
+                "Who is the owner of Vishwakarma Fabrication?"
+            ],
+            "responses": [
+                "Shailesh Vishwakarma"
+            ]
+        },
+        {
+            "tag": "business_32_1",
+            "patterns": [
+                "What is the designation of the owner of Vishwakarma Fabrication?"
+            ],
+            "responses": [
+                "Proprietor"
+            ]
+        },
+        {
+            "tag": "business_32_2",
+            "patterns": [
+                "What is the gender of the owner of Vishwakarma Fabrication?"
+            ],
+            "responses": [
+                "Male"
+            ]
+        },
+        {
+            "tag": "business_32_3",
+            "patterns": [
+                "What is the category of the owner of Vishwakarma Fabrication?"
+            ],
+            "responses": [
+                "OBC"
+            ]
+        },
+        {
+            "tag": "business_32_4",
+            "patterns": [
+                "What is the contact of Vishwakarma Fabrication?"
+            ],
+            "responses": [
+                "9628119147"
+            ]
+        },
+        {
+            "tag": "business_32_5",
+            "patterns": [
+                "What is the email of Vishwakarma Fabrication?"
+            ],
+            "responses": [
+                "shaileshvishwakarma941@gmail.com"
+            ]
+        },
+        {
+            "tag": "business_32_6",
+            "patterns": [
+                "What is the business industry of Vishwakarma Fabrication?"
+            ],
+            "responses": [
+                "Micro"
+            ]
+        },
+        {
+            "tag": "business_32_7",
+            "patterns": [
+                "What is the business activity of Vishwakarma Fabrication?"
+            ],
+            "responses": [
+                "Manufacturing"
+            ]
+        },
+        {
+            "tag": "business_32_8",
+            "patterns": [
+                "What is the address of Vishwakarma Fabrication?"
+            ],
+            "responses": [
+                "nan"
+            ]
+        },
+        {
+            "tag": "business_32_9",
+            "patterns": [
+                "What is the district of Vishwakarma Fabrication?"
+            ],
+            "responses": [
+                "Maharajganj "
+            ]
+        },
+        {
+            "tag": "business_32_10",
+            "patterns": [
+                "What is the state of Vishwakarma Fabrication?"
+            ],
+            "responses": [
+                "Uttar Pradesh"
+            ]
+        },
+        {
+            "tag": "business_32_11",
+            "patterns": [
+                "What is the pincode of Vishwakarma Fabrication?"
+            ],
+            "responses": [
+                "0"
+            ]
+        },
+        {
+            "tag": "business_33_0",
+            "patterns": [
+                "Who is the owner of Ds Communication?"
+            ],
+            "responses": [
+                "Sarvesh Kumar Chauhan"
+            ]
+        },
+        {
+            "tag": "business_33_1",
+            "patterns": [
+                "What is the designation of the owner of Ds Communication?"
+            ],
+            "responses": [
+                "Proprietor"
+            ]
+        },
+        {
+            "tag": "business_33_2",
+            "patterns": [
+                "What is the gender of the owner of Ds Communication?"
+            ],
+            "responses": [
+                "Male"
+            ]
+        },
+        {
+            "tag": "business_33_3",
+            "patterns": [
+                "What is the category of the owner of Ds Communication?"
+            ],
+            "responses": [
+                "OBC"
+            ]
+        },
+        {
+            "tag": "business_33_4",
+            "patterns": [
+                "What is the contact of Ds Communication?"
+            ],
+            "responses": [
+                "9793216796"
+            ]
+        },
+        {
+            "tag": "business_33_5",
+            "patterns": [
+                "What is the email of Ds Communication?"
+            ],
+            "responses": [
+                "sarveshmca15@gmail.com"
+            ]
+        },
+        {
+            "tag": "business_33_6",
+            "patterns": [
+                "What is the business industry of Ds Communication?"
+            ],
+            "responses": [
+                "Micro"
+            ]
+        },
+        {
+            "tag": "business_33_7",
+            "patterns": [
+                "What is the business activity of Ds Communication?"
+            ],
+            "responses": [
+                "Manufacturing"
+            ]
+        },
+        {
+            "tag": "business_33_8",
+            "patterns": [
+                "What is the address of Ds Communication?"
+            ],
+            "responses": [
+                "nan"
+            ]
+        },
+        {
+            "tag": "business_33_9",
+            "patterns": [
+                "What is the district of Ds Communication?"
+            ],
+            "responses": [
+                "Maharajganj "
+            ]
+        },
+        {
+            "tag": "business_33_10",
+            "patterns": [
+                "What is the state of Ds Communication?"
+            ],
+            "responses": [
+                "Uttar Pradesh"
+            ]
+        },
+        {
+            "tag": "business_33_11",
+            "patterns": [
+                "What is the pincode of Ds Communication?"
+            ],
+            "responses": [
+                "0"
+            ]
+        },
+        {
+            "tag": "business_34_0",
+            "patterns": [
+                "Who is the owner of Prince Furanicre Udhyog Gadaura?"
+            ],
+            "responses": [
+                "Abhishek Sharma"
+            ]
+        },
+        {
+            "tag": "business_34_1",
+            "patterns": [
+                "What is the designation of the owner of Prince Furanicre Udhyog Gadaura?"
+            ],
+            "responses": [
+                "Proprietor"
+            ]
+        },
+        {
+            "tag": "business_34_2",
+            "patterns": [
+                "What is the gender of the owner of Prince Furanicre Udhyog Gadaura?"
+            ],
+            "responses": [
+                "Male"
+            ]
+        },
+        {
+            "tag": "business_34_3",
+            "patterns": [
+                "What is the category of the owner of Prince Furanicre Udhyog Gadaura?"
+            ],
+            "responses": [
+                "OBC"
+            ]
+        },
+        {
+            "tag": "business_34_4",
+            "patterns": [
+                "What is the contact of Prince Furanicre Udhyog Gadaura?"
+            ],
+            "responses": [
+                "7080763652"
+            ]
+        },
+        {
+            "tag": "business_34_5",
+            "patterns": [
+                "What is the email of Prince Furanicre Udhyog Gadaura?"
+            ],
+            "responses": [
+                "mahanthsharma725@gmail.com"
+            ]
+        },
+        {
+            "tag": "business_34_6",
+            "patterns": [
+                "What is the business industry of Prince Furanicre Udhyog Gadaura?"
+            ],
+            "responses": [
+                "Micro"
+            ]
+        },
+        {
+            "tag": "business_34_7",
+            "patterns": [
+                "What is the business activity of Prince Furanicre Udhyog Gadaura?"
+            ],
+            "responses": [
+                "Manufacturing"
+            ]
+        },
+        {
+            "tag": "business_34_8",
+            "patterns": [
+                "What is the address of Prince Furanicre Udhyog Gadaura?"
+            ],
+            "responses": [
+                "nan"
+            ]
+        },
+        {
+            "tag": "business_34_9",
+            "patterns": [
+                "What is the district of Prince Furanicre Udhyog Gadaura?"
+            ],
+            "responses": [
+                "Maharajganj "
+            ]
+        },
+        {
+            "tag": "business_34_10",
+            "patterns": [
+                "What is the state of Prince Furanicre Udhyog Gadaura?"
+            ],
+            "responses": [
+                "Uttar Pradesh"
+            ]
+        },
+        {
+            "tag": "business_34_11",
+            "patterns": [
+                "What is the pincode of Prince Furanicre Udhyog Gadaura?"
+            ],
+            "responses": [
+                "0"
+            ]
+        },
+        {
+            "tag": "business_35_0",
+            "patterns": [
+                "Who is the owner of Krishna Furniture Centre?"
+            ],
+            "responses": [
+                "Krishna Murari Vishwakarma"
+            ]
+        },
+        {
+            "tag": "business_35_1",
+            "patterns": [
+                "What is the designation of the owner of Krishna Furniture Centre?"
+            ],
+            "responses": [
+                "Proprietor"
+            ]
+        },
+        {
+            "tag": "business_35_2",
+            "patterns": [
+                "What is the gender of the owner of Krishna Furniture Centre?"
+            ],
+            "responses": [
+                "Male"
+            ]
+        },
+        {
+            "tag": "business_35_3",
+            "patterns": [
+                "What is the category of the owner of Krishna Furniture Centre?"
+            ],
+            "responses": [
+                "OBC"
+            ]
+        },
+        {
+            "tag": "business_35_4",
+            "patterns": [
+                "What is the contact of Krishna Furniture Centre?"
+            ],
+            "responses": [
+                "9120605389"
+            ]
+        },
+        {
+            "tag": "business_35_5",
+            "patterns": [
+                "What is the email of Krishna Furniture Centre?"
+            ],
+            "responses": [
+                "krishna912060@gmail.com"
+            ]
+        },
+        {
+            "tag": "business_35_6",
+            "patterns": [
+                "What is the business industry of Krishna Furniture Centre?"
+            ],
+            "responses": [
+                "Micro"
+            ]
+        },
+        {
+            "tag": "business_35_7",
+            "patterns": [
+                "What is the business activity of Krishna Furniture Centre?"
+            ],
+            "responses": [
+                "Manufacturing"
+            ]
+        },
+        {
+            "tag": "business_35_8",
+            "patterns": [
+                "What is the address of Krishna Furniture Centre?"
+            ],
+            "responses": [
+                "nan"
+            ]
+        },
+        {
+            "tag": "business_35_9",
+            "patterns": [
+                "What is the district of Krishna Furniture Centre?"
+            ],
+            "responses": [
+                "Maharajganj "
+            ]
+        },
+        {
+            "tag": "business_35_10",
+            "patterns": [
+                "What is the state of Krishna Furniture Centre?"
+            ],
+            "responses": [
+                "Uttar Pradesh"
+            ]
+        },
+        {
+            "tag": "business_35_11",
+            "patterns": [
+                "What is the pincode of Krishna Furniture Centre?"
+            ],
+            "responses": [
+                "0"
+            ]
+        },
+        {
+            "tag": "business_36_0",
+            "patterns": [
+                "Who is the owner of Jk Timber?"
+            ],
+            "responses": [
+                "Jaykrishan"
+            ]
+        },
+        {
+            "tag": "business_36_1",
+            "patterns": [
+                "What is the designation of the owner of Jk Timber?"
+            ],
+            "responses": [
+                "Proprietor"
+            ]
+        },
+        {
+            "tag": "business_36_2",
+            "patterns": [
+                "What is the gender of the owner of Jk Timber?"
+            ],
+            "responses": [
+                "Male"
+            ]
+        },
+        {
+            "tag": "business_36_3",
+            "patterns": [
+                "What is the category of the owner of Jk Timber?"
+            ],
+            "responses": [
+                "OBC"
+            ]
+        },
+        {
+            "tag": "business_36_4",
+            "patterns": [
+                "What is the contact of Jk Timber?"
+            ],
+            "responses": [
+                "9792444630"
+            ]
+        },
+        {
+            "tag": "business_36_5",
+            "patterns": [
+                "What is the email of Jk Timber?"
+            ],
+            "responses": [
+                "jk201973@gmail.com"
+            ]
+        },
+        {
+            "tag": "business_36_6",
+            "patterns": [
+                "What is the business industry of Jk Timber?"
+            ],
+            "responses": [
+                "Micro"
+            ]
+        },
+        {
+            "tag": "business_36_7",
+            "patterns": [
+                "What is the business activity of Jk Timber?"
+            ],
+            "responses": [
+                "Manufacturing"
+            ]
+        },
+        {
+            "tag": "business_36_8",
+            "patterns": [
+                "What is the address of Jk Timber?"
+            ],
+            "responses": [
+                "nan"
+            ]
+        },
+        {
+            "tag": "business_36_9",
+            "patterns": [
+                "What is the district of Jk Timber?"
+            ],
+            "responses": [
+                "Maharajganj "
+            ]
+        },
+        {
+            "tag": "business_36_10",
+            "patterns": [
+                "What is the state of Jk Timber?"
+            ],
+            "responses": [
+                "Uttar Pradesh"
+            ]
+        },
+        {
+            "tag": "business_36_11",
+            "patterns": [
+                "What is the pincode of Jk Timber?"
+            ],
+            "responses": [
+                "0"
+            ]
+        },
+        {
+            "tag": "business_37_0",
+            "patterns": [
+                "Who is the owner of M/S. Ayush Enterprises?"
+            ],
+            "responses": [
+                "Rambha"
+            ]
+        },
+        {
+            "tag": "business_37_1",
+            "patterns": [
+                "What is the designation of the owner of M/S. Ayush Enterprises?"
+            ],
+            "responses": [
+                "Proprietor"
+            ]
+        },
+        {
+            "tag": "business_37_2",
+            "patterns": [
+                "What is the gender of the owner of M/S. Ayush Enterprises?"
+            ],
+            "responses": [
+                "Male"
+            ]
+        },
+        {
+            "tag": "business_37_3",
+            "patterns": [
+                "What is the category of the owner of M/S. Ayush Enterprises?"
+            ],
+            "responses": [
+                "OBC"
+            ]
+        },
+        {
+            "tag": "business_37_4",
+            "patterns": [
+                "What is the contact of M/S. Ayush Enterprises?"
+            ],
+            "responses": [
+                "8115372720"
+            ]
+        },
+        {
+            "tag": "business_37_5",
+            "patterns": [
+                "What is the email of M/S. Ayush Enterprises?"
+            ],
+            "responses": [
+                "rambhadevimrj2@gmail.com"
+            ]
+        },
+        {
+            "tag": "business_37_6",
+            "patterns": [
+                "What is the business industry of M/S. Ayush Enterprises?"
+            ],
+            "responses": [
+                "Micro"
+            ]
+        },
+        {
+            "tag": "business_37_7",
+            "patterns": [
+                "What is the business activity of M/S. Ayush Enterprises?"
+            ],
+            "responses": [
+                "Manufacturing"
+            ]
+        },
+        {
+            "tag": "business_37_8",
+            "patterns": [
+                "What is the address of M/S. Ayush Enterprises?"
+            ],
+            "responses": [
+                "nan"
+            ]
+        },
+        {
+            "tag": "business_37_9",
+            "patterns": [
+                "What is the district of M/S. Ayush Enterprises?"
+            ],
+            "responses": [
+                "Maharajganj "
+            ]
+        },
+        {
+            "tag": "business_37_10",
+            "patterns": [
+                "What is the state of M/S. Ayush Enterprises?"
+            ],
+            "responses": [
+                "Uttar Pradesh"
+            ]
+        },
+        {
+            "tag": "business_37_11",
+            "patterns": [
+                "What is the pincode of M/S. Ayush Enterprises?"
+            ],
+            "responses": [
+                "0"
+            ]
+        },
+        {
+            "tag": "business_38_0",
+            "patterns": [
+                "Who is the owner of Dairy?"
+            ],
+            "responses": [
+                "Manisha Kumari"
+            ]
+        },
+        {
+            "tag": "business_38_1",
+            "patterns": [
+                "What is the designation of the owner of Dairy?"
+            ],
+            "responses": [
+                "Proprietor"
+            ]
+        },
+        {
+            "tag": "business_38_2",
+            "patterns": [
+                "What is the gender of the owner of Dairy?"
+            ],
+            "responses": [
+                "Male"
+            ]
+        },
+        {
+            "tag": "business_38_3",
+            "patterns": [
+                "What is the category of the owner of Dairy?"
+            ],
+            "responses": [
+                "OBC"
+            ]
+        },
+        {
+            "tag": "business_38_4",
+            "patterns": [
+                "What is the contact of Dairy?"
+            ],
+            "responses": [
+                "9665180004"
+            ]
+        },
+        {
+            "tag": "business_38_5",
+            "patterns": [
+                "What is the email of Dairy?"
+            ],
+            "responses": [
+                "manishaverm115@gmail.com"
+            ]
+        },
+        {
+            "tag": "business_38_6",
+            "patterns": [
+                "What is the business industry of Dairy?"
+            ],
+            "responses": [
+                "Micro"
+            ]
+        },
+        {
+            "tag": "business_38_7",
+            "patterns": [
+                "What is the business activity of Dairy?"
+            ],
+            "responses": [
+                "Manufacturing"
+            ]
+        },
+        {
+            "tag": "business_38_8",
+            "patterns": [
+                "What is the address of Dairy?"
+            ],
+            "responses": [
+                "nan"
+            ]
+        },
+        {
+            "tag": "business_38_9",
+            "patterns": [
+                "What is the district of Dairy?"
+            ],
+            "responses": [
+                "Maharajganj "
+            ]
+        },
+        {
+            "tag": "business_38_10",
+            "patterns": [
+                "What is the state of Dairy?"
+            ],
+            "responses": [
+                "Uttar Pradesh"
+            ]
+        },
+        {
+            "tag": "business_38_11",
+            "patterns": [
+                "What is the pincode of Dairy?"
+            ],
+            "responses": [
+                "0"
+            ]
+        },
+        {
+            "tag": "business_39_0",
+            "patterns": [
+                "Who is the owner of Sd Stationary?"
+            ],
+            "responses": [
+                "Shamsuddin Ali"
+            ]
+        },
+        {
+            "tag": "business_39_1",
+            "patterns": [
+                "What is the designation of the owner of Sd Stationary?"
+            ],
+            "responses": [
+                "Proprietor"
+            ]
+        },
+        {
+            "tag": "business_39_2",
+            "patterns": [
+                "What is the gender of the owner of Sd Stationary?"
+            ],
+            "responses": [
+                "Male"
+            ]
+        },
+        {
+            "tag": "business_39_3",
+            "patterns": [
+                "What is the category of the owner of Sd Stationary?"
+            ],
+            "responses": [
+                "OBC"
+            ]
+        },
+        {
+            "tag": "business_39_4",
+            "patterns": [
+                "What is the contact of Sd Stationary?"
+            ],
+            "responses": [
+                "9838562730"
+            ]
+        },
+        {
+            "tag": "business_39_5",
+            "patterns": [
+                "What is the email of Sd Stationary?"
+            ],
+            "responses": [
+                "shamsuddinbond563@gmail.com"
+            ]
+        },
+        {
+            "tag": "business_39_6",
+            "patterns": [
+                "What is the business industry of Sd Stationary?"
+            ],
+            "responses": [
+                "Micro"
+            ]
+        },
+        {
+            "tag": "business_39_7",
+            "patterns": [
+                "What is the business activity of Sd Stationary?"
+            ],
+            "responses": [
+                "Manufacturing"
+            ]
+        },
+        {
+            "tag": "business_39_8",
+            "patterns": [
+                "What is the address of Sd Stationary?"
+            ],
+            "responses": [
+                "nan"
+            ]
+        },
+        {
+            "tag": "business_39_9",
+            "patterns": [
+                "What is the district of Sd Stationary?"
+            ],
+            "responses": [
+                "Maharajganj "
+            ]
+        },
+        {
+            "tag": "business_39_10",
+            "patterns": [
+                "What is the state of Sd Stationary?"
+            ],
+            "responses": [
+                "Uttar Pradesh"
+            ]
+        },
+        {
+            "tag": "business_39_11",
+            "patterns": [
+                "What is the pincode of Sd Stationary?"
+            ],
+            "responses": [
+                "0"
+            ]
+        },
+        {
+            "tag": "business_40_0",
+            "patterns": [
+                "Who is the owner of Anil Kumar Sharma?"
+            ],
+            "responses": [
+                "Anil Kumar Sharma"
+            ]
+        },
+        {
+            "tag": "business_40_1",
+            "patterns": [
+                "What is the designation of the owner of Anil Kumar Sharma?"
+            ],
+            "responses": [
+                "Proprietor"
+            ]
+        },
+        {
+            "tag": "business_40_2",
+            "patterns": [
+                "What is the gender of the owner of Anil Kumar Sharma?"
+            ],
+            "responses": [
+                "Male"
+            ]
+        },
+        {
+            "tag": "business_40_3",
+            "patterns": [
+                "What is the category of the owner of Anil Kumar Sharma?"
+            ],
+            "responses": [
+                "OBC"
+            ]
+        },
+        {
+            "tag": "business_40_4",
+            "patterns": [
+                "What is the contact of Anil Kumar Sharma?"
+            ],
+            "responses": [
+                "9936242647"
+            ]
+        },
+        {
+            "tag": "business_40_5",
+            "patterns": [
+                "What is the email of Anil Kumar Sharma?"
+            ],
+            "responses": [
+                "aksbos576@gmail.com"
+            ]
+        },
+        {
+            "tag": "business_40_6",
+            "patterns": [
+                "What is the business industry of Anil Kumar Sharma?"
+            ],
+            "responses": [
+                "Micro"
+            ]
+        },
+        {
+            "tag": "business_40_7",
+            "patterns": [
+                "What is the business activity of Anil Kumar Sharma?"
+            ],
+            "responses": [
+                "Manufacturing"
+            ]
+        },
+        {
+            "tag": "business_40_8",
+            "patterns": [
+                "What is the address of Anil Kumar Sharma?"
+            ],
+            "responses": [
+                "nan"
+            ]
+        },
+        {
+            "tag": "business_40_9",
+            "patterns": [
+                "What is the district of Anil Kumar Sharma?"
+            ],
+            "responses": [
+                "Maharajganj "
+            ]
+        },
+        {
+            "tag": "business_40_10",
+            "patterns": [
+                "What is the state of Anil Kumar Sharma?"
+            ],
+            "responses": [
+                "Uttar Pradesh"
+            ]
+        },
+        {
+            "tag": "business_40_11",
+            "patterns": [
+                "What is the pincode of Anil Kumar Sharma?"
+            ],
+            "responses": [
+                "0"
+            ]
+        },
+        {
+            "tag": "business_41_0",
+            "patterns": [
+                "Who is the owner of Anirudh Prajapati?"
+            ],
+            "responses": [
+                "Anirudh Prajapati"
+            ]
+        },
+        {
+            "tag": "business_41_1",
+            "patterns": [
+                "What is the designation of the owner of Anirudh Prajapati?"
+            ],
+            "responses": [
+                "Proprietor"
+            ]
+        },
+        {
+            "tag": "business_41_2",
+            "patterns": [
+                "What is the gender of the owner of Anirudh Prajapati?"
+            ],
+            "responses": [
+                "Male"
+            ]
+        },
+        {
+            "tag": "business_41_3",
+            "patterns": [
+                "What is the category of the owner of Anirudh Prajapati?"
+            ],
+            "responses": [
+                "OBC"
+            ]
+        },
+        {
+            "tag": "business_41_4",
+            "patterns": [
+                "What is the contact of Anirudh Prajapati?"
+            ],
+            "responses": [
+                "8858244254"
+            ]
+        },
+        {
+            "tag": "business_41_5",
+            "patterns": [
+                "What is the email of Anirudh Prajapati?"
+            ],
+            "responses": [
+                "anirudhmrj@gmail.com"
+            ]
+        },
+        {
+            "tag": "business_41_6",
+            "patterns": [
+                "What is the business industry of Anirudh Prajapati?"
+            ],
+            "responses": [
+                "Micro"
+            ]
+        },
+        {
+            "tag": "business_41_7",
+            "patterns": [
+                "What is the business activity of Anirudh Prajapati?"
+            ],
+            "responses": [
+                "Manufacturing"
+            ]
+        },
+        {
+            "tag": "business_41_8",
+            "patterns": [
+                "What is the address of Anirudh Prajapati?"
+            ],
+            "responses": [
+                "nan"
+            ]
+        },
+        {
+            "tag": "business_41_9",
+            "patterns": [
+                "What is the district of Anirudh Prajapati?"
+            ],
+            "responses": [
+                "Maharajganj "
+            ]
+        },
+        {
+            "tag": "business_41_10",
+            "patterns": [
+                "What is the state of Anirudh Prajapati?"
+            ],
+            "responses": [
+                "Uttar Pradesh"
+            ]
+        },
+        {
+            "tag": "business_41_11",
+            "patterns": [
+                "What is the pincode of Anirudh Prajapati?"
+            ],
+            "responses": [
+                "0"
+            ]
+        },
+        {
+            "tag": "business_42_0",
+            "patterns": [
+                "Who is the owner of Dharmendra Kumar?"
+            ],
+            "responses": [
+                "Dharmendra Kumar"
+            ]
+        },
+        {
+            "tag": "business_42_1",
+            "patterns": [
+                "What is the designation of the owner of Dharmendra Kumar?"
+            ],
+            "responses": [
+                "Proprietor"
+            ]
+        },
+        {
+            "tag": "business_42_2",
+            "patterns": [
+                "What is the gender of the owner of Dharmendra Kumar?"
+            ],
+            "responses": [
+                "Male"
+            ]
+        },
+        {
+            "tag": "business_42_3",
+            "patterns": [
+                "What is the category of the owner of Dharmendra Kumar?"
+            ],
+            "responses": [
+                "OBC"
+            ]
+        },
+        {
+            "tag": "business_42_4",
+            "patterns": [
+                "What is the contact of Dharmendra Kumar?"
+            ],
+            "responses": [
+                "6394864919"
+            ]
+        },
+        {
+            "tag": "business_42_5",
+            "patterns": [
+                "What is the email of Dharmendra Kumar?"
+            ],
+            "responses": [
+                "abhaybuilding059@gmail.com"
+            ]
+        },
+        {
+            "tag": "business_42_6",
+            "patterns": [
+                "What is the business industry of Dharmendra Kumar?"
+            ],
+            "responses": [
+                "Micro"
+            ]
+        },
+        {
+            "tag": "business_42_7",
+            "patterns": [
+                "What is the business activity of Dharmendra Kumar?"
+            ],
+            "responses": [
+                "Manufacturing"
+            ]
+        },
+        {
+            "tag": "business_42_8",
+            "patterns": [
+                "What is the address of Dharmendra Kumar?"
+            ],
+            "responses": [
+                "nan"
+            ]
+        },
+        {
+            "tag": "business_42_9",
+            "patterns": [
+                "What is the district of Dharmendra Kumar?"
+            ],
+            "responses": [
+                "Maharajganj "
+            ]
+        },
+        {
+            "tag": "business_42_10",
+            "patterns": [
+                "What is the state of Dharmendra Kumar?"
+            ],
+            "responses": [
+                "Uttar Pradesh"
+            ]
+        },
+        {
+            "tag": "business_42_11",
+            "patterns": [
+                "What is the pincode of Dharmendra Kumar?"
+            ],
+            "responses": [
+                "0"
+            ]
+        },
+        {
+            "tag": "business_43_0",
+            "patterns": [
+                "Who is the owner of Shri Krishan?"
+            ],
+            "responses": [
+                "Shri Krishan"
+            ]
+        },
+        {
+            "tag": "business_43_1",
+            "patterns": [
+                "What is the designation of the owner of Shri Krishan?"
+            ],
+            "responses": [
+                "Proprietor"
+            ]
+        },
+        {
+            "tag": "business_43_2",
+            "patterns": [
+                "What is the gender of the owner of Shri Krishan?"
+            ],
+            "responses": [
+                "Male"
+            ]
+        },
+        {
+            "tag": "business_43_3",
+            "patterns": [
+                "What is the category of the owner of Shri Krishan?"
+            ],
+            "responses": [
+                "OBC"
+            ]
+        },
+        {
+            "tag": "business_43_4",
+            "patterns": [
+                "What is the contact of Shri Krishan?"
+            ],
+            "responses": [
+                "7266036217"
+            ]
+        },
+        {
+            "tag": "business_43_5",
+            "patterns": [
+                "What is the email of Shri Krishan?"
+            ],
+            "responses": [
+                "nan"
+            ]
+        },
+        {
+            "tag": "business_43_6",
+            "patterns": [
+                "What is the business industry of Shri Krishan?"
+            ],
+            "responses": [
+                "Micro"
+            ]
+        },
+        {
+            "tag": "business_43_7",
+            "patterns": [
+                "What is the business activity of Shri Krishan?"
+            ],
+            "responses": [
+                "Manufacturing"
+            ]
+        },
+        {
+            "tag": "business_43_8",
+            "patterns": [
+                "What is the address of Shri Krishan?"
+            ],
+            "responses": [
+                "nan"
+            ]
+        },
+        {
+            "tag": "business_43_9",
+            "patterns": [
+                "What is the district of Shri Krishan?"
+            ],
+            "responses": [
+                "Maharajganj "
+            ]
+        },
+        {
+            "tag": "business_43_10",
+            "patterns": [
+                "What is the state of Shri Krishan?"
+            ],
+            "responses": [
+                "Uttar Pradesh"
+            ]
+        },
+        {
+            "tag": "business_43_11",
+            "patterns": [
+                "What is the pincode of Shri Krishan?"
+            ],
+            "responses": [
+                "0"
+            ]
+        },
+        {
+            "tag": "business_44_0",
+            "patterns": [
+                "Who is the owner of Rajendra Agrawal?"
+            ],
+            "responses": [
+                "Rajendra Agrawal"
+            ]
+        },
+        {
+            "tag": "business_44_1",
+            "patterns": [
+                "What is the designation of the owner of Rajendra Agrawal?"
+            ],
+            "responses": [
+                "Proprietor"
+            ]
+        },
+        {
+            "tag": "business_44_2",
+            "patterns": [
+                "What is the gender of the owner of Rajendra Agrawal?"
+            ],
+            "responses": [
+                "Male"
+            ]
+        },
+        {
+            "tag": "business_44_3",
+            "patterns": [
+                "What is the category of the owner of Rajendra Agrawal?"
+            ],
+            "responses": [
+                "OBC"
+            ]
+        },
+        {
+            "tag": "business_44_4",
+            "patterns": [
+                "What is the contact of Rajendra Agrawal?"
+            ],
+            "responses": [
+                "9918555521"
+            ]
+        },
+        {
+            "tag": "business_44_5",
+            "patterns": [
+                "What is the email of Rajendra Agrawal?"
+            ],
+            "responses": [
+                "nan"
+            ]
+        },
+        {
+            "tag": "business_44_6",
+            "patterns": [
+                "What is the business industry of Rajendra Agrawal?"
+            ],
+            "responses": [
+                "Micro"
+            ]
+        },
+        {
+            "tag": "business_44_7",
+            "patterns": [
+                "What is the business activity of Rajendra Agrawal?"
+            ],
+            "responses": [
+                "Manufacturing"
+            ]
+        },
+        {
+            "tag": "business_44_8",
+            "patterns": [
+                "What is the address of Rajendra Agrawal?"
+            ],
+            "responses": [
+                "nan"
+            ]
+        },
+        {
+            "tag": "business_44_9",
+            "patterns": [
+                "What is the district of Rajendra Agrawal?"
+            ],
+            "responses": [
+                "Maharajganj "
+            ]
+        },
+        {
+            "tag": "business_44_10",
+            "patterns": [
+                "What is the state of Rajendra Agrawal?"
+            ],
+            "responses": [
+                "Uttar Pradesh"
+            ]
+        },
+        {
+            "tag": "business_44_11",
+            "patterns": [
+                "What is the pincode of Rajendra Agrawal?"
+            ],
+            "responses": [
+                "0"
+            ]
+        },
+        {
+            "tag": "business_45_0",
+            "patterns": [
+                "Who is the owner of A K Electronic?"
+            ],
+            "responses": [
+                "Kamalesh Yadav"
+            ]
+        },
+        {
+            "tag": "business_45_1",
+            "patterns": [
+                "What is the designation of the owner of A K Electronic?"
+            ],
+            "responses": [
+                "Proprietor"
+            ]
+        },
+        {
+            "tag": "business_45_2",
+            "patterns": [
+                "What is the gender of the owner of A K Electronic?"
+            ],
+            "responses": [
+                "Male"
+            ]
+        },
+        {
+            "tag": "business_45_3",
+            "patterns": [
+                "What is the category of the owner of A K Electronic?"
+            ],
+            "responses": [
+                "OBC"
+            ]
+        },
+        {
+            "tag": "business_45_4",
+            "patterns": [
+                "What is the contact of A K Electronic?"
+            ],
+            "responses": [
+                "8400128569"
+            ]
+        },
+        {
+            "tag": "business_45_5",
+            "patterns": [
+                "What is the email of A K Electronic?"
+            ],
+            "responses": [
+                "kamlesh89858@gmail.com"
+            ]
+        },
+        {
+            "tag": "business_45_6",
+            "patterns": [
+                "What is the business industry of A K Electronic?"
+            ],
+            "responses": [
+                "Micro"
+            ]
+        },
+        {
+            "tag": "business_45_7",
+            "patterns": [
+                "What is the business activity of A K Electronic?"
+            ],
+            "responses": [
+                "Manufacturing"
+            ]
+        },
+        {
+            "tag": "business_45_8",
+            "patterns": [
+                "What is the address of A K Electronic?"
+            ],
+            "responses": [
+                "nan"
+            ]
+        },
+        {
+            "tag": "business_45_9",
+            "patterns": [
+                "What is the district of A K Electronic?"
+            ],
+            "responses": [
+                "Maharajganj "
+            ]
+        },
+        {
+            "tag": "business_45_10",
+            "patterns": [
+                "What is the state of A K Electronic?"
+            ],
+            "responses": [
+                "Uttar Pradesh"
+            ]
+        },
+        {
+            "tag": "business_45_11",
+            "patterns": [
+                "What is the pincode of A K Electronic?"
+            ],
+            "responses": [
+                "0"
+            ]
+        },
+        {
+            "tag": "business_46_0",
+            "patterns": [
+                "Who is the owner of Verma Lakdi Udhyog?"
+            ],
+            "responses": [
+                "Ram Prasad Verma"
+            ]
+        },
+        {
+            "tag": "business_46_1",
+            "patterns": [
+                "What is the designation of the owner of Verma Lakdi Udhyog?"
+            ],
+            "responses": [
+                "Proprietor"
+            ]
+        },
+        {
+            "tag": "business_46_2",
+            "patterns": [
+                "What is the gender of the owner of Verma Lakdi Udhyog?"
+            ],
+            "responses": [
+                "Male"
+            ]
+        },
+        {
+            "tag": "business_46_3",
+            "patterns": [
+                "What is the category of the owner of Verma Lakdi Udhyog?"
+            ],
+            "responses": [
+                "OBC"
+            ]
+        },
+        {
+            "tag": "business_46_4",
+            "patterns": [
+                "What is the contact of Verma Lakdi Udhyog?"
+            ],
+            "responses": [
+                "9721359227"
+            ]
+        },
+        {
+            "tag": "business_46_5",
+            "patterns": [
+                "What is the email of Verma Lakdi Udhyog?"
+            ],
+            "responses": [
+                "rprasad111973@gmail.com"
+            ]
+        },
+        {
+            "tag": "business_46_6",
+            "patterns": [
+                "What is the business industry of Verma Lakdi Udhyog?"
+            ],
+            "responses": [
+                "Micro"
+            ]
+        },
+        {
+            "tag": "business_46_7",
+            "patterns": [
+                "What is the business activity of Verma Lakdi Udhyog?"
+            ],
+            "responses": [
+                "Manufacturing"
+            ]
+        },
+        {
+            "tag": "business_46_8",
+            "patterns": [
+                "What is the address of Verma Lakdi Udhyog?"
+            ],
+            "responses": [
+                "nan"
+            ]
+        },
+        {
+            "tag": "business_46_9",
+            "patterns": [
+                "What is the district of Verma Lakdi Udhyog?"
+            ],
+            "responses": [
+                "Maharajganj "
+            ]
+        },
+        {
+            "tag": "business_46_10",
+            "patterns": [
+                "What is the state of Verma Lakdi Udhyog?"
+            ],
+            "responses": [
+                "Uttar Pradesh"
+            ]
+        },
+        {
+            "tag": "business_46_11",
+            "patterns": [
+                "What is the pincode of Verma Lakdi Udhyog?"
+            ],
+            "responses": [
+                "0"
+            ]
+        },
+        {
+            "tag": "business_47_0",
+            "patterns": [
+                "Who is the owner of Anil Wooden Furniture?"
+            ],
+            "responses": [
+                "Anil "
+            ]
+        },
+        {
+            "tag": "business_47_1",
+            "patterns": [
+                "What is the designation of the owner of Anil Wooden Furniture?"
+            ],
+            "responses": [
+                "Proprietor"
+            ]
+        },
+        {
+            "tag": "business_47_2",
+            "patterns": [
+                "What is the gender of the owner of Anil Wooden Furniture?"
+            ],
+            "responses": [
+                "Male"
+            ]
+        },
+        {
+            "tag": "business_47_3",
+            "patterns": [
+                "What is the category of the owner of Anil Wooden Furniture?"
+            ],
+            "responses": [
+                "OBC"
+            ]
+        },
+        {
+            "tag": "business_47_4",
+            "patterns": [
+                "What is the contact of Anil Wooden Furniture?"
+            ],
+            "responses": [
+                "8052104340"
+            ]
+        },
+        {
+            "tag": "business_47_5",
+            "patterns": [
+                "What is the email of Anil Wooden Furniture?"
+            ],
+            "responses": [
+                "anilsh708@gmail.com"
+            ]
+        },
+        {
+            "tag": "business_47_6",
+            "patterns": [
+                "What is the business industry of Anil Wooden Furniture?"
+            ],
+            "responses": [
+                "Micro"
+            ]
+        },
+        {
+            "tag": "business_47_7",
+            "patterns": [
+                "What is the business activity of Anil Wooden Furniture?"
+            ],
+            "responses": [
+                "Manufacturing"
+            ]
+        },
+        {
+            "tag": "business_47_8",
+            "patterns": [
+                "What is the address of Anil Wooden Furniture?"
+            ],
+            "responses": [
+                "nan"
+            ]
+        },
+        {
+            "tag": "business_47_9",
+            "patterns": [
+                "What is the district of Anil Wooden Furniture?"
+            ],
+            "responses": [
+                "Maharajganj "
+            ]
+        },
+        {
+            "tag": "business_47_10",
+            "patterns": [
+                "What is the state of Anil Wooden Furniture?"
+            ],
+            "responses": [
+                "Uttar Pradesh"
+            ]
+        },
+        {
+            "tag": "business_47_11",
+            "patterns": [
+                "What is the pincode of Anil Wooden Furniture?"
+            ],
+            "responses": [
+                "0"
+            ]
+        },
+        {
+            "tag": "business_48_0",
+            "patterns": [
+                "Who is the owner of Bautique ?"
+            ],
+            "responses": [
+                "Mohammad Shr Ali"
+            ]
+        },
+        {
+            "tag": "business_48_1",
+            "patterns": [
+                "What is the designation of the owner of Bautique ?"
+            ],
+            "responses": [
+                "Proprietor"
+            ]
+        },
+        {
+            "tag": "business_48_2",
+            "patterns": [
+                "What is the gender of the owner of Bautique ?"
+            ],
+            "responses": [
+                "Male"
+            ]
+        },
+        {
+            "tag": "business_48_3",
+            "patterns": [
+                "What is the category of the owner of Bautique ?"
+            ],
+            "responses": [
+                "OBC"
+            ]
+        },
+        {
+            "tag": "business_48_4",
+            "patterns": [
+                "What is the contact of Bautique ?"
+            ],
+            "responses": [
+                "9838834802"
+            ]
+        },
+        {
+            "tag": "business_48_5",
+            "patterns": [
+                "What is the email of Bautique ?"
+            ],
+            "responses": [
+                "alimdsher738@gmail.com"
+            ]
+        },
+        {
+            "tag": "business_48_6",
+            "patterns": [
+                "What is the business industry of Bautique ?"
+            ],
+            "responses": [
+                "Micro"
+            ]
+        },
+        {
+            "tag": "business_48_7",
+            "patterns": [
+                "What is the business activity of Bautique ?"
+            ],
+            "responses": [
+                "Manufacturing"
+            ]
+        },
+        {
+            "tag": "business_48_8",
+            "patterns": [
+                "What is the address of Bautique ?"
+            ],
+            "responses": [
+                "nan"
+            ]
+        },
+        {
+            "tag": "business_48_9",
+            "patterns": [
+                "What is the district of Bautique ?"
+            ],
+            "responses": [
+                "Maharajganj "
+            ]
+        },
+        {
+            "tag": "business_48_10",
+            "patterns": [
+                "What is the state of Bautique ?"
+            ],
+            "responses": [
+                "Uttar Pradesh"
+            ]
+        },
+        {
+            "tag": "business_48_11",
+            "patterns": [
+                "What is the pincode of Bautique ?"
+            ],
+            "responses": [
+                "0"
+            ]
+        },
+        {
+            "tag": "business_49_0",
+            "patterns": [
+                "Who is the owner of Rajesh?"
+            ],
+            "responses": [
+                "Rajesh"
+            ]
+        },
+        {
+            "tag": "business_49_1",
+            "patterns": [
+                "What is the designation of the owner of Rajesh?"
+            ],
+            "responses": [
+                "Proprietor"
+            ]
+        },
+        {
+            "tag": "business_49_2",
+            "patterns": [
+                "What is the gender of the owner of Rajesh?"
+            ],
+            "responses": [
+                "Male"
+            ]
+        },
+        {
+            "tag": "business_49_3",
+            "patterns": [
+                "What is the category of the owner of Rajesh?"
+            ],
+            "responses": [
+                "OBC"
+            ]
+        },
+        {
+            "tag": "business_49_4",
+            "patterns": [
+                "What is the contact of Rajesh?"
+            ],
+            "responses": [
+                "9565766012"
+            ]
+        },
+        {
+            "tag": "business_49_5",
+            "patterns": [
+                "What is the email of Rajesh?"
+            ],
+            "responses": [
+                "rajeshrana297@gmail.com"
+            ]
+        },
+        {
+            "tag": "business_49_6",
+            "patterns": [
+                "What is the business industry of Rajesh?"
+            ],
+            "responses": [
+                "Micro"
+            ]
+        },
+        {
+            "tag": "business_49_7",
+            "patterns": [
+                "What is the business activity of Rajesh?"
+            ],
+            "responses": [
+                "Manufacturing"
+            ]
+        },
+        {
+            "tag": "business_49_8",
+            "patterns": [
+                "What is the address of Rajesh?"
+            ],
+            "responses": [
+                "nan"
+            ]
+        },
+        {
+            "tag": "business_49_9",
+            "patterns": [
+                "What is the district of Rajesh?"
+            ],
+            "responses": [
+                "Maharajganj "
+            ]
+        },
+        {
+            "tag": "business_49_10",
+            "patterns": [
+                "What is the state of Rajesh?"
+            ],
+            "responses": [
+                "Uttar Pradesh"
+            ]
+        },
+        {
+            "tag": "business_49_11",
+            "patterns": [
+                "What is the pincode of Rajesh?"
+            ],
+            "responses": [
+                "0"
+            ]
+        }
+    ]
+}
